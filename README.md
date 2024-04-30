@@ -40,6 +40,8 @@ These are just some resources to aid in the development process.
 ### Tailwind
 - https://www.youtube.com/watch?v=pfaSUYaSgRo&t=164s&pp=ygUMdGFpbHdpbmQgY3Nz 
 - https://www.youtube.com/watch?v=DenUCuq4G04&pp=ygUMdGFpbHdpbmQgY3Nz
+### Icons
+- This is the icon pack we will be using: https://tabler.io/icons
 ### Links and routing
 - https://nextjs.org/docs/pages/api-reference/components/link
 - https://nextjs.org/docs/app/api-reference/functions/use-router
