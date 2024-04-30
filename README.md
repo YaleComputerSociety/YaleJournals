@@ -30,7 +30,7 @@ The majority of the code in the backend folder should be for scraping.
 ### Miscellaneous:
 package.json and package-lock.json are for Node.js package
   * These files should not be modified unless you are manually debugging dependency errors
-postcss.config.js and tailwind.config.js are for Tailwind
+  * postcss.config.js and tailwind.config.js are for Tailwind
   * You can modify these files if you want to customize the functionality of Tailwind
 All other files/directories should not be modified
 
