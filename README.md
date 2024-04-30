@@ -23,8 +23,8 @@ src/components contains frontend code for reuseable components that can be used 
   * It is also used to modularize and organize the code and improve readability
 globals.css, layout.tsx, and page.tsx should NOT be changed
 ### Backend:
-All backend code is located under src/backend
-The majority of the code in the backend folder should be for scraping
+All backend code is located under src/backend.
+The majority of the code in the backend folder should be for scraping.
   * There is currently a backend.json file that contains metadata for placeholder articles
   * This is for testing purposes only; we will be using Firebase to store this data as well as handle authentication and cloud storage
 ### Miscellaneous:
