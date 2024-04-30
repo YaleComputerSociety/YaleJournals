@@ -44,7 +44,7 @@ const Article: React.FC<ArticleProps> = (props) => {
                     url: props.url,
                 },
             }}
-            className="mb-2 font-mono text-2xl text-center cursor-pointer text-ellipsis hover:text-[1.4rem] duration-200">{props.title}</Link>
+            className="mb-2 font-mono text-2xl text-center cursor-pointer text-ellipsis underline underline-offset-4 hover:text-[1.4rem] hover:no-underline duration-200">{props.title}</Link>
             <p className="text-sm">{props.date} • {props.author}</p>
         </div>
     );
