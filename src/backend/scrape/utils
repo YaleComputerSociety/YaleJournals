@@ -1,0 +1,22 @@
+import json
+
+def data_to_json(publication, title, author, date, article_content, url, images=None, captions=None, author_logo="", topic=""):
+    """Format individual data into the standard dictionary for json format."""
+    article_json = {
+    "title": title,
+    "author": author,
+    "authorLogo": "",  
+    "date": date,
+    "thumbnail": images,  
+    "publication": publication, 
+    "topic": topic,  
+    "content": article_content,
+    "url": url,
+    "captions": captions
+    }
+
+    return article_json
+
+def load_to_json(file_path, data):
+    with open(file_path, 'w', encoding='utf-8') as file:
+        json.dump(data, file, indent=4)
