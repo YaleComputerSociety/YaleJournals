@@ -1,0 +1,115 @@
+import requests
+import utils
+import time
+from bs4 import BeautifulSoup
+import re
+
+def get_scientific_articles(url):
+    page_response = requests.get(url)
+    if page_response.status_code != 200:
+        return []
+    page_content = BeautifulSoup(page_response.text, 'html.parser')
+    
+    # Check for the error message indicating the page does not exist
+    if "The page can't be found." in page_content.text:
+        return None  # Indicate that the page does not exist
+
+    articles = page_content.find_all('article', class_="elementor-post")
+    
+    url_to_articles = []
+    for article in articles:
+        a_tag = article.find('a', href=True)
+        if a_tag and a_tag.has_attr('href'):
+            url_to_articles.append(a_tag['href'])
+
+    return url_to_articles
+
+def get_scientific_article_content(url):
+    response = requests.get(url)
+    content = BeautifulSoup(response.text, 'html.parser')
+    
+    # Extracting the title (example: <title>Packing for Mars &#8211; Yale Scientific Magazine</title>)
+    title_tag = content.find('title')
+    title = title_tag.text if title_tag else ""
+
+    # Get rid of the trailing Yale Scientific Magazine
+    cleaned_title = re.sub(r"\s*–.*$", "", title)
+    
+    # Extracting the author (example: <meta name="author" content="Madeline Popelka">)
+    author_tag = content.find('meta', {'name': 'author'})
+    author = author_tag['content'] if author_tag else ""
+    
+    # Extracting the date (example: <time>December 21, 2013</time>)
+    time_tag = content.find('time')
+    date = time_tag.text if time_tag else ""
+    
+    # Extracting the article content (found in direct sequence of <p> </p>)
+    paragraphs = content.find_all('p')
+    article_content = '\n'.join([p.text for p in paragraphs])
+
+    # get images and captions
+    images = []
+    captions = []
+
+    # loop through figure elements containing images and captions
+    for figure in content.find_all('figure', {'class': 'wp-caption'}):
+        img = figure.find('img', {'class': 'size-large'})
+        if img and img.get('src'):
+            images.append(img['src'])
+        
+        caption = figure.find('figcaption', {'class': 'widget-image-caption wp-caption-text'})
+        if caption:
+            captions.append(caption.text.strip())
+
+    return cleaned_title, author, date, article_content, images, captions
+
+def format_issue_url(volume, issue):
+    base_url = "https://www.yalescientific.org/category/"
+    issue_url_format = "{volume}-{issue}/"
+    issue_url = base_url + issue_url_format.format(volume=volume, issue=issue)
+
+    return issue_url
+
+def format_page_url(issue_url, volume, issue, current_page):
+    page_url_format = "{volume}-{issue}/page/{current_page}/"
+
+    page_url = issue_url + page_url_format.format(volume=volume, issue=issue, current_page=current_page)
+
+    return page_url
+
+def scrape_articles_for_issue(issue_url, volume, issue):
+    issue_articles = []
+
+    current_page = 1 
+    while True:
+        page_url = format_page_url(issue_url, volume, issue, current_page)
+        try:
+            url_to_articles = get_scientific_articles(page_url)
+
+            # Check if we've processed all our pages
+            if url_to_articles is None:  
+                print(f"No more pages found for {issue_url}. Last valid page was {current_page - 1}.")
+                break
+            elif not url_to_articles:  
+                print(f"Page exists but contains no articles for {issue_url} at page {current_page}.")
+                break
+            
+            for url in url_to_articles:            
+                # Get content
+                title, author, date, article_content, images, captions = get_scientific_article_content(url)
+
+                # Group content
+                article_json = utils.data_to_json("The Yale Scientific", title, author, date, article_content, url, images, captions, "", "Science and Technology")
+
+                # Organize content
+                issue_articles.append(article_json)
+            
+            current_page += 1  
+        except Exception as e:
+            print(f"Error processing {page_url}: {e}")
+            break  
+
+        # Sleep to avoid request overload
+        time.sleep(1)
+
+    return issue_articles

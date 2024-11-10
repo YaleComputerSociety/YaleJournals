@@ -1,0 +1,37 @@
+{
+    "articles": [
+        {
+            "title": "Article 1",
+            "author": "John Doe",
+            "authorLogo": "/assets/ydn.png",
+            "date": "April 29, 2021",
+            "thumbnail": "/assets/stock.jpeg",
+            "publication": "Yale Daily News",
+            "topic": "University",
+            "content": "This is the content of article 1",
+            "url": "/"
+        },
+        {
+            "title": "Article 2",
+            "author": "Jane Doe",
+            "authorLogo": "/assets/ydn.png",
+            "date": "August 12, 2020",
+            "thumbnail": "/assets/stock.jpeg",
+            "publication": "Yale Daily News",
+            "topic": "Economics",
+            "content": "This is the content of article 2",
+            "url": "/"
+        },
+        {
+            "title": "Article 3",
+            "author": "John Smith",
+            "authorLogo": "/assets/scientific.png",
+            "date": "October 3, 2019",
+            "thumbnail": "/assets/stock.jpeg",
+            "publication": "Yale Scientific",
+            "topic": "Science",
+            "content": "This is the content of article 3",
+            "url": "/"
+        }
+    ]
+}
