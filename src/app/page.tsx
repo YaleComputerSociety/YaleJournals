@@ -6,9 +6,11 @@ export default function Home() {
         <div>
             <nav className="flex flex-row my-9 mx-24 p-3 justify-between items-center">
                 <div className="flex flex-row justify-center items-center">
-                    <h1 className="pr-5 text-4xl text-red-500 font-serif font-medium hover:text-red-600 transition-all duration-300">
-                        Yale Journals
-                    </h1>
+                    <Link href="/">
+                        <h1 className="pr-5 text-4xl text-red-500 font-serif font-medium hover:text-red-600 transition-all duration-300 cursor-pointer">
+                            Yale Journals
+                        </h1>
+                    </Link>
                     <span className="h-12 w-[2px] bg-black"></span>
                     <Link href="/">
                         <button className="ml-5 text-lg text-black hover:underline transition-all duration-300">Search</button>
@@ -55,21 +57,23 @@ export default function Home() {
                     <h3 className="text-2xl font-bold mb-4">Latest Stories</h3>
                     <div className="grid grid-cols-3 gap-6">
                         {Array.from({ length: 5 }).map((_, index) => (
-                            <div key={index} className="bg-gray-100 rounded-lg shadow-lg p-4 hover:shadow-xl hover:scale-105 transition-transform duration-300 cursor-pointer">
-                                <img
-                                    src="/assets/story-placeholder.jpg"
-                                    alt="Story"
-                                    className="w-full h-48 object-cover rounded-lg mb-4"
-                                />
-                                <div className="flex flex-row mb-2 items-center">
-                                    <img src="/assets/ydn.png" alt="Yale Daily News" className="h-8 mr-2 rounded-full"/>
-                                    <p className="text-sm">Yale Daily News • August 25, 2024</p>
+                            <Link href="/article/${articleId}">
+                                <div key={index} className="bg-gray-100 rounded-lg shadow-lg p-4 hover:shadow-xl hover:scale-105 transition-transform duration-300 cursor-pointer">
+                                    <img
+                                        src="/assets/story-placeholder.jpg"
+                                        alt="Story"
+                                        className="w-full h-48 object-cover rounded-lg mb-4"
+                                    />
+                                    <div className="flex flex-row mb-2 items-center">
+                                        <img src="/assets/ydn.png" alt="Yale Daily News" className="h-8 mr-2 rounded-full"/>
+                                        <p className="text-sm">Yale Daily News • August 25, 2024</p>
+                                    </div>
+                                    <h4 className="text-lg font-semibold mb-2">
+                                        Yale mental health experts weigh in on increasing national suicide rates
+                                    </h4>
+                                    <p className="text-gray-700 text-sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                 </div>
-                                <h4 className="text-lg font-semibold mb-2">
-                                    Yale mental health experts weigh in on increasing national suicide rates
-                                </h4>
-                                <p className="text-gray-700 text-sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                            </div>
+                            </Link>
                         ))}
                     </div>
                 </section>
