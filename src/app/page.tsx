@@ -31,7 +31,7 @@ export default function Home() {
 
             <header className="flex flex-col mx-24 my-12 p-10 items-center justify-center bg-gray-100 text-center rounded-xl">
                 <h3 className="mb-3 text-xl font-light">WELCOME TO YALE JOURNALS</h3>
-                <h2 className="text-3xl font-medium">Discover stories 📖 that ignite <span className="text-red-500">inspiration 💡</span>, <br/> knowledge 🧠, and entertainment 🎬</h2>
+                <h2 className="text-3xl font-medium">Discover stories 📖 that ignite <span className="text-red-500">inspiration 💡</span>, <br/> <span className="text-red-500">knowledge 🧠</span>, and <span className="text-red-500">entertainment 🎬</span></h2>
             </header>
 
             <main className="px-24">

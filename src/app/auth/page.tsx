@@ -9,7 +9,7 @@ export default function Auth() {
       </div>
 
       <div className="flex flex-col justify-center w-full lg:w-1/2 p-8 bg-gray-100">
-        <h1 className="mb-8 text-4xl font-bold text-red-600 text-left font-serif">Yale Journals</h1>
+        <h1 className="mb-8 text-4xl font-medium text-red-600 text-left font-serif">Yale Journals</h1>
 
         <form className="w-full space-y-6">
           <div>
