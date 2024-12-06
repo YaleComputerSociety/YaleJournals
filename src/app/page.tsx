@@ -1,49 +1,111 @@
-import Image from 'next/image';
+import React from 'react';
 import Link from 'next/link';
 
-export default function Auth() {
-  return (
-    <div className="flex h-screen">
-      <div className="hidden relative lg:flex w-1/2 h-full">
-        <Image src="/assets/cross.jpg" alt="Campus" layout="fill" objectFit="cover" quality={100} />
-      </div>
+export default function Home() {
+    return (
+        <div>
+            <nav className="flex flex-row my-9 mx-24 p-3 justify-between items-center">
+                <div className="flex flex-row justify-center items-center">
+                    <h1 className="pr-5 text-4xl text-red-500 font-serif font-medium hover:text-red-600 transition-all duration-300">
+                        Yale Journals
+                    </h1>
+                    <span className="h-12 w-[2px] bg-black"></span>
+                    <Link href="/">
+                        <button className="ml-5 text-lg text-black hover:underline transition-all duration-300">Search</button>
+                    </Link>
+                    <Link href="/saved">
+                        <button className="ml-5 text-lg text-black hover:underline transition-all duration-300">Saved</button>
+                    </Link>
+                    <Link href="/team">
+                        <button className="ml-5 text-lg text-black hover:underline transition-all duration-300">Team</button>
+                    </Link>
+                </div>
+                <Link href="/auth">
+                    <button className="flex flex-col w-32 h-14 justify-center items-center bg-red-500 hover:bg-red-600 transition-all duration-300 rounded-2xl text-white cursor-pointer shadow-lg">
+                        Sign In
+                    </button>
+                </Link>
+            </nav>
 
-      <div className="flex flex-col justify-center w-full lg:w-1/2 p-8 bg-gray-100">
-        <h1 className="mb-8 text-4xl font-bold text-red-600 text-left font-serif">Yale Journals</h1>
+            <header className="flex flex-col mx-24 my-12 p-10 items-center justify-center bg-gray-100 text-center rounded-xl">
+                <h3 className="mb-3 text-xl font-light">WELCOME TO YALE JOURNALS</h3>
+                <h2 className="text-3xl font-medium">Discover stories 📖 that ignite <span className="text-red-500">inspiration 💡</span>, <br/> knowledge 🧠, and entertainment 🎬</h2>
+            </header>
 
-        <form className="w-full space-y-6">
-          <div>
-            <label htmlFor="email" className="block text-md font-medium text-gray-700">
-                Email
-            </label>
-            <input type="email" id="email" className="h-12 p-3 mt-1 block w-full rounded-2xl border-gray-300 shadow-sm focus:border-red-500 focus:ring-red-500" placeholder="Email" required/>
-          </div>
+            <main className="px-24">
+                <section>
+                    <div className="flex items-center mb-8">
+                        <img
+                            src="/assets/john-wick.jpg"
+                            alt="John Wick"
+                            className="w-1/3 rounded-xl shadow-lg"
+                        />
+                        <div className="ml-8">
+                            <div className="flex flex-row mb-2 items-center">
+                                <img src="/assets/ydn.png" alt="Yale Daily News" className="h-8 mr-2 rounded-full"/>
+                                <p className="text-sm">Yale Daily News • August 25, 2024</p>
+                            </div>
+                            <h3 className="text-2xl font-bold mb-4 hover:text-3xl transition-all duration-300 cursor-pointer">Where To Watch ‘John Wick: Chapter 4’</h3>
+                            <p className="text-gray-700">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        </div>
+                    </div>
+                </section>
 
-          <div>
-            <label htmlFor="password" className="block text-md font-medium text-gray-700">
-              Password
-            </label>
-            <input type="password" id="password" className="h-12 p-3 mt-1 block w-full rounded-2xl border-gray-300 shadow-sm focus:border-red-500 focus:ring-red-500" placeholder="Password" required/>
-          </div>
+                <section>
+                    <h3 className="text-2xl font-bold mb-4">Latest Stories</h3>
+                    <div className="grid grid-cols-3 gap-6">
+                        {Array.from({ length: 5 }).map((_, index) => (
+                            <div key={index} className="bg-gray-100 rounded-lg shadow-lg p-4 hover:shadow-xl hover:scale-105 transition-transform duration-300 cursor-pointer">
+                                <img
+                                    src="/assets/story-placeholder.jpg"
+                                    alt="Story"
+                                    className="w-full h-48 object-cover rounded-lg mb-4"
+                                />
+                                <div className="flex flex-row mb-2 items-center">
+                                    <img src="/assets/ydn.png" alt="Yale Daily News" className="h-8 mr-2 rounded-full"/>
+                                    <p className="text-sm">Yale Daily News • August 25, 2024</p>
+                                </div>
+                                <h4 className="text-lg font-semibold mb-2">
+                                    Yale mental health experts weigh in on increasing national suicide rates
+                                </h4>
+                                <p className="text-gray-700 text-sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                            </div>
+                        ))}
+                    </div>
+                </section>
 
-          <Link href="/home">
-            <button type="submit" className="w-full h-14 py-2 rounded-2xl bg-red-600 text-white font-semibold hover:bg-red-700 focus:outline-none focus:ring-2 focus:ring-red-500 focus:ring-offset-2">
-              Sign In
-            </button>
-          </Link>
-        </form>
+                <section className="my-12">
+                    <h3 className="text-2xl font-bold mb-4">Publications</h3>
+                    <div className="flex justify-between">
+                        <img
+                            src="/assets/ydn.png"
+                            alt="Yale Daily News"
+                            className="h-32 rounded-full hover:scale-110 transition-transform duration-300 cursor-pointer"
+                        />
+                        <img
+                            src="/assets/ydn.png"
+                            alt="Yale Scientific"
+                            className="h-32 rounded-full hover:scale-110 transition-transform duration-300 cursor-pointer"
+                        />
+                        <img
+                            src="/assets/ydn.png"
+                            alt="Yale Literary Magazine"
+                            className="h-32 rounded-full hover:scale-110 transition-transform duration-300 cursor-pointer"
+                        />
+                        <img
+                            src="/assets/ydn.png"
+                            alt="Yale Historical"
+                            className="h-32 rounded-full hover:scale-110 transition-transform duration-300 cursor-pointer"
+                        />
+                    </div>
+                </section>
+            </main>
 
-        <div className="flex items-center justify-center mt-6">
-          <hr className="border-gray-300 w-full" />
-          <span className="px-3 text-gray-600">or</span>
-          <hr className="border-gray-300 w-full" />
+            <footer className="bg-gray-100 text-center py-6 mt-12">
+                <p className="text-sm text-gray-700">
+                    Yale Journals © {new Date().getFullYear()} Yale Computer Society. All Rights Reserved.
+                </p>
+            </footer>
         </div>
-
-        <button type="button" className="w-full h-16 mt-4 flex items-center justify-center py-2 rounded-2xl border border-gray-300 bg-white text-gray-700 font-medium hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">
-          <Image src="/assets/google.png" alt="Google" width={50} height={50} className="mr-2" />
-          Sign in with Google
-        </button>
-      </div>
-    </div>
-  );
+    );
 }
