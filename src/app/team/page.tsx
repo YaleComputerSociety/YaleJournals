@@ -4,32 +4,32 @@ const teamMembers = [
     {
         name: "Rifat Tarafder",
         role: "Project Lead",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        image: "/assets/rifat.jpg",
+        bio: "Rifat is a sophomore studying Computer Science and Global Affairs.",
+        image: "/assets/rifat.jpeg",
     },
     {
         name: "Jorge Torres",
         role: "Software Engineer",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        image: "/assets/jorge.jpg",
+        bio: "Jorge is a junior studying Computer Science.",
+        image: "https://yalestudentphotos.s3.amazonaws.com/9dcd18fc98ccc71db47b18e8ec61371c.jpg",
     },
     {
         name: "Ryan Kulsakdinum",
         role: "Software Engineer",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        image: "/assets/ryan.jpg",
+        bio: "Ryan is a sophomore studying Computer Science.",
+        image: "https://yalestudentphotos.s3.amazonaws.com/57d7a30877120d6ae09d5b7cff9a9f79.jpg",
     },
     {
         name: "Dane Keahi",
         role: "Software Engineer",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        image: "/assets/dane.jpg",
+        bio: "Dane is a sophomore studying Computer Science.",
+        image: "https://yalestudentphotos.s3.amazonaws.com/594aa1e1a7948b5733de0427cf111304.jpg",
     },
     {
         name: "Alvin Lu",
         role: "Software Engineer",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        image: "/assets/alvin.jpg",
+        bio: "Alvin is a junior studying Computer Science.",
+        image: "https://yalestudentphotos.s3.amazonaws.com/8c09a7a97c959a82b53dfc39f1db34d9.jpg",
     },
 ];
 
@@ -47,7 +47,7 @@ export default function TeamPage() {
                     <Link href="/">
                         <button className="ml-5 text-lg text-black hover:underline transition-all duration-300">Search</button>
                     </Link>
-                    <Link href="/saved">
+                    <Link href="/">
                         <button className="ml-5 text-lg text-black hover:underline transition-all duration-300">Saved</button>
                     </Link>
                     <Link href="/team">

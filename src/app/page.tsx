@@ -1,7 +1,10 @@
-import React from 'react';
 import Link from 'next/link';
+import backend from '../backend/backend_scientific.json';
 
 export default function Home() {
+    var randStartIndex = Math.floor(Math.random() * ((backend.articles.length - 6) - 0 + 1));
+    var featuredArticle = backend.articles[randStartIndex];
+
     return (
         <div>
             <nav className="flex flex-row my-9 mx-24 p-3 justify-between items-center">
@@ -15,7 +18,7 @@ export default function Home() {
                     <Link href="/">
                         <button className="ml-5 text-lg text-black hover:underline transition-all duration-300">Search</button>
                     </Link>
-                    <Link href="/saved">
+                    <Link href="/">
                         <button className="ml-5 text-lg text-black hover:underline transition-all duration-300">Saved</button>
                     </Link>
                     <Link href="/team">
@@ -38,40 +41,67 @@ export default function Home() {
                 <section>
                     <div className="flex items-center mb-8">
                         <img
-                            src="/assets/john-wick.jpg"
-                            alt="John Wick"
+                            src={featuredArticle.thumbnail[0]}
+                            alt="Thumbnail"
                             className="w-1/3 rounded-xl shadow-lg"
                         />
                         <div className="ml-8">
                             <div className="flex flex-row mb-2 items-center">
-                                <img src="/assets/ydn.png" alt="Yale Daily News" className="h-8 mr-2 rounded-full"/>
-                                <p className="text-sm">Yale Daily News • August 25, 2024</p>
+                                <img src={featuredArticle.authorLogo} alt="Logo" className="h-8 mr-2 rounded-full"/>
+                                <p className="text-sm">{featuredArticle.publication} • {featuredArticle.date}</p>
                             </div>
-                            <h3 className="text-2xl font-bold mb-4 hover:text-3xl transition-all duration-300 cursor-pointer">Where To Watch ‘John Wick: Chapter 4’</h3>
-                            <p className="text-gray-700">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            <Link href={{
+                                pathname: '/article',
+                                query: { 
+                                    title: featuredArticle.title,
+                                    date: featuredArticle.date,
+                                    author: featuredArticle.author,
+                                    authorLogo: featuredArticle.authorLogo,
+                                    thumbnail: featuredArticle.thumbnail,
+                                    publication: featuredArticle.publication,
+                                    topic: featuredArticle.topic,
+                                    content: featuredArticle.content,
+                                    url: featuredArticle.url,
+                                },
+                            }}>
+                                <h3 className="text-2xl font-bold mb-4 hover:text-3xl transition-all duration-300 cursor-pointer">{featuredArticle.title}</h3>
+                            </Link>
+                            <p className="text-gray-700">{featuredArticle.content.substring(0, 200) + "..."}</p>
                         </div>
                     </div>
                 </section>
-
                 <section>
                     <h3 className="text-2xl font-bold mb-4">Latest Stories</h3>
                     <div className="grid grid-cols-3 gap-6">
-                        {Array.from({ length: 5 }).map((_, index) => (
-                            <Link href="/article/${articleId}">
+                        {backend.articles.slice(randStartIndex + 1, randStartIndex + 7).map((article, index) => (
+                            <Link href={{
+                                pathname: '/article',
+                                query: { 
+                                    title: article.title,
+                                    date: article.date,
+                                    author: article.author,
+                                    authorLogo: article.authorLogo,
+                                    thumbnail: article.thumbnail,
+                                    publication: article.publication,
+                                    topic: article.topic,
+                                    content: article.content,
+                                    url: article.url,
+                                },
+                            }}>
                                 <div key={index} className="bg-gray-100 rounded-lg shadow-lg p-4 hover:shadow-xl hover:scale-105 transition-transform duration-300 cursor-pointer">
                                     <img
-                                        src="/assets/story-placeholder.jpg"
-                                        alt="Story"
+                                        src={article.thumbnail[0]}
+                                        alt="Thumbnail"
                                         className="w-full h-48 object-cover rounded-lg mb-4"
                                     />
                                     <div className="flex flex-row mb-2 items-center">
-                                        <img src="/assets/ydn.png" alt="Yale Daily News" className="h-8 mr-2 rounded-full"/>
-                                        <p className="text-sm">Yale Daily News • August 25, 2024</p>
+                                        <img src={article.authorLogo} alt="Yale Daily News" className="h-8 mr-2 rounded-full"/>
+                                        <p className="text-sm">{article.publication} • {article.date}</p>
                                     </div>
                                     <h4 className="text-lg font-semibold mb-2">
-                                        Yale mental health experts weigh in on increasing national suicide rates
+                                        {article.title}
                                     </h4>
-                                    <p className="text-gray-700 text-sm">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                                    <p className="text-gray-700 text-sm">{article.content.substring(0, 150) + "..."}</p>
                                 </div>
                             </Link>
                         ))}
@@ -87,17 +117,12 @@ export default function Home() {
                             className="h-32 rounded-full hover:scale-110 transition-transform duration-300 cursor-pointer"
                         />
                         <img
-                            src="/assets/ydn.png"
+                            src="/assets/scientific.jpeg"
                             alt="Yale Scientific"
                             className="h-32 rounded-full hover:scale-110 transition-transform duration-300 cursor-pointer"
                         />
                         <img
-                            src="/assets/ydn.png"
-                            alt="Yale Literary Magazine"
-                            className="h-32 rounded-full hover:scale-110 transition-transform duration-300 cursor-pointer"
-                        />
-                        <img
-                            src="/assets/ydn.png"
+                            src="/assets/historical.png"
                             alt="Yale Historical"
                             className="h-32 rounded-full hover:scale-110 transition-transform duration-300 cursor-pointer"
                         />

@@ -3,7 +3,7 @@
         {
             "title": "XCL1: Two Folds Are Better Than One",
             "author": "Madison Houck",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Houck_4-500x216.jpg"
@@ -19,7 +19,7 @@
         {
             "title": "Testing the Marshmallow Test",
             "author": "Dana Kim",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Kim_2-500x280.jpg"
@@ -35,7 +35,7 @@
         {
             "title": "The Magic Number Behind the Universe?",
             "author": "Malia Kuo",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Kuo_2-500x375.jpg"
@@ -51,7 +51,7 @@
         {
             "title": "Robotic Theory of Mind",
             "author": "Veronica Lee",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Lee_2-500x390.png"
@@ -67,7 +67,7 @@
         {
             "title": "Learning the Language of a Virus",
             "author": "Angelica Lorenzo",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Lorenzo_1-500x281.jpg"
@@ -83,7 +83,7 @@
         {
             "title": "Counting Elephants from Space",
             "author": "Clay Thames",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Thames_4-500x500.png"
@@ -99,7 +99,7 @@
         {
             "title": "The Nsp1 protein: COVID-19\u2019s secret, but fatal weapon",
             "author": "Britt Bistis",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Graphic1-500x281.jpg"
@@ -115,7 +115,7 @@
         {
             "title": "The Unfinished Puzzle of Alzheimer\u2019s Disease",
             "author": "Rayyan Darji",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-2-1-500x281.jpg"
@@ -131,7 +131,7 @@
         {
             "title": "Out of the Blue: Islands of Life",
             "author": "Alexa Jeanne Loste",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/hawaiian-islands-500x245.jpeg"
@@ -147,7 +147,7 @@
         {
             "title": "Up in Flames: Retrieving Clues About Air Pollution from Forest Fires",
             "author": "Anavi Uppal",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Fire-Forest-500x332.jpg"
@@ -163,7 +163,7 @@
         {
             "title": "Shutting Down the IRE1\u03b1 Complex",
             "author": "Ryan Bose-Roy",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-2-1-500x377.png"
@@ -179,7 +179,7 @@
         {
             "title": "Lab Grown Meat: Valid Concern or Unfounded Disgust?",
             "author": "Frances Cheung",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/FirstDraft_Cheung-500x333.jpg"
@@ -195,7 +195,7 @@
         {
             "title": "From Cells to Thermodynamics: Measuring the Entropy Production of Living Matter",
             "author": "Elisa Howard",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Howard_Figure1-500x320.jpg"
@@ -211,7 +211,7 @@
         {
             "title": "Nanoparticles for Treating Sick Babies in the Uterus",
             "author": "Viola Lee",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Lee_Figure1-476x500.png"
@@ -227,7 +227,7 @@
         {
             "title": "A New Frontier of Atomic Scale Replication",
             "author": "Emilia Oliva",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/image1-1-500x428.png"
@@ -243,7 +243,7 @@
         {
             "title": "The Colossal Effect of Grains: A new model explains how tectonic plates weaken prior to subduction",
             "author": "Yu Jun Shen",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Shen_Figure2-500x254.jpg"
@@ -259,7 +259,7 @@
         {
             "title": "The Molecular Nature of PTSD: The Transcriptomic Landscape of PTSD in Postmortem Tissue",
             "author": "Georgia Spurrier",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/YSM_Figure2-500x357.jpg"
@@ -275,7 +275,7 @@
         {
             "title": "Extracting Arsenic: Purging of Stubborn Contaminants Using Earth-Abundant Materials",
             "author": "Shudipto Wahed",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Wahed_Figure1-500x333.jpg"
@@ -291,7 +291,7 @@
         {
             "title": "Black Mirror, Discriminatory Design, and \u201cThe New Jim Code\u201d",
             "author": "Selma Abouneameh",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/RaceAfterTech_Cover-319x500.jpg"
@@ -307,7 +307,7 @@
         {
             "title": "Into the Newsroom: Teaching Through TikToks",
             "author": "Ann-Marie Abunyewa",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/AsapSCIENCE-500x333.jpg"
@@ -323,7 +323,7 @@
         {
             "title": "Science in the Spotlight: The Surgeon\u2019s Cut",
             "author": "Tejita Agarwal",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/The-Surgeons-Cut-500x281.jpg"
@@ -339,7 +339,7 @@
         {
             "title": "Counterpoint: Are We There Yet?",
             "author": "Dilge Buksur",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Screenshot-2021-04-27-144748-500x280.jpg"
@@ -355,7 +355,7 @@
         {
             "title": "Undergraduate Profile: Anna Zhang (DC \u201923)",
             "author": "Lauren Chong",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Anna-Zhang-3-Photo-with-camera-333x500.jpg"
@@ -371,7 +371,7 @@
         {
             "title": "Just How Badly Has COVID-19 Affected College Students?",
             "author": "Sherry Wang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-3-500x319.png"
@@ -387,7 +387,7 @@
         {
             "title": "Q&A: Can We Reverse Aging?",
             "author": "Christopher Ye",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure1_Ye-500x251.png"
@@ -403,7 +403,7 @@
         {
             "title": "Owen Garrick (MD \u201998): Precision Medicine and Health Disparities",
             "author": "Xiaoying Zheng",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 27, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Xu_2.jpg"
@@ -419,7 +419,7 @@
         {
             "title": "Understanding the Potential of Neural Stem Cells: An analysis of cell migration for neural tissue regeneration",
             "author": "Krishna Dasari",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 25, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-2-500x375.jpg"
@@ -435,7 +435,7 @@
         {
             "title": "Wait, What Was I Doing Again?: Newfound insight into transient forgetting",
             "author": "Matthew Fan",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 25, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/29009784253_a68a0c459f.jpeg"
@@ -451,7 +451,7 @@
         {
             "title": "Post-Operative Painkiller Patches: A Promising Alternative to Opioid Prescription",
             "author": "Sydney Hirsch",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 25, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-1-1-500x333.png"
@@ -467,7 +467,7 @@
         {
             "title": "How Effective is Yale\u2019s Twice-Weekly Testing Schedule?",
             "author": "Hannah Huang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 25, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/YasmineHalmane_covidtesting2-500x333.jpg"
@@ -483,7 +483,7 @@
         {
             "title": "The New Social Robot: Deep Learning with DANTE for automatic group detection",
             "author": "Cindy Kuang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 25, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/49997851407_9d4568d415_b-385x500.jpeg"
@@ -499,7 +499,7 @@
         {
             "title": "Why Aren\u2019t There North American Lions?",
             "author": "Lucas Loman",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 25, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-3-1-500x333.jpg"
@@ -515,7 +515,7 @@
         {
             "title": "Higher Levels of Air Pollution Linked to Increased Demand for Mental Health Services",
             "author": "Victoria Ouyang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 25, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-2-1-500x346.jpg"
@@ -531,7 +531,7 @@
         {
             "title": "The New Energy Farm: Physicists find a new way of extracting energy from black holes",
             "author": "Nicole Rodriguez",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 25, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-7-500x281.jpg"
@@ -547,7 +547,7 @@
         {
             "title": "Why Am I Irritable?",
             "author": "Van Anh Tran",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 25, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/wiresimage__whyamIirritable-1-500x281.jpg"
@@ -563,7 +563,7 @@
         {
             "title": "Harmony and Discord: The Brain Activation in Social Interactions",
             "author": "Georgia Woscoboinik",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 24, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/ysm-1.jpg"
@@ -579,7 +579,7 @@
         {
             "title": "The Sugar Code: Instructions for the Earliest Stages of Cardiovascular Development",
             "author": "Elizabeth Wu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 24, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Screen-Shot-2021-04-24-at-2.58.41-PM-500x424.png"
@@ -595,7 +595,7 @@
         {
             "title": "From Bacteria to Glacier Melting",
             "author": "Bella Xiong",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "April 24, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/IMG_2129-500x344.jpg"
@@ -611,7 +611,7 @@
         {
             "title": "\u201cLike-Dissolves-Like\u201d: Updating theories on miscibility",
             "author": "Veronica Brooks",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 21, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Brooks_Figure1-500x375.jpg"
@@ -627,7 +627,7 @@
         {
             "title": "Identifying Deafness Mutations",
             "author": "Kelly Chen",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 21, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Chen_Figure1.png"
@@ -643,7 +643,7 @@
         {
             "title": "Nanoscale Nucleation: Insight into the unusual mechanism of contact freezing",
             "author": "Krishna Dasari",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 21, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Dasari_Figure1-500x272.png"
@@ -659,7 +659,7 @@
         {
             "title": "Soft, Stretchy, and Reliable: The Discovery of Biphasic Ga-In as a Solution to Strain Sensitivity in Electronics",
             "author": "Gonna Nwakudu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 21, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Nwakudu_Figure1-500x333.jpg"
@@ -675,7 +675,7 @@
         {
             "title": "News Byte: Stem Cell Therapy for Spinal Cord Injuries",
             "author": "Jerry Ruvalcaba",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 21, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Ruvalcaba_Figure1-500x402.jpg"
@@ -691,7 +691,7 @@
         {
             "title": "Stereochemistry Selection: The catalytic synthesis of stereopure oligonucleotides",
             "author": "Shudipto Wahed",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 20, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Wahed_Figure1-500x331.png"
@@ -707,7 +707,7 @@
         {
             "title": "Racial Disparities in COVID-19 Mortality",
             "author": "Bella Xiong",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 20, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-4.png"
@@ -723,7 +723,7 @@
         {
             "title": "A Curious Salmonella Protein: SopD\u2019s stimulation and inhibition of inflammation",
             "author": "Christopher Ye",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 20, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Ye_Figure1-500x419.jpg"
@@ -739,7 +739,7 @@
         {
             "title": "What\u2019s in the Mariana Trench? A Robot May Have the Answer: Self-powered soft robot withstands high pressure depths",
             "author": "Frances Cheung",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 20, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Image-1-500x333.jpeg"
@@ -755,7 +755,7 @@
         {
             "title": "The Future of Personalized Medicine and Cancer Treatment: The promise of whole genome sequencing",
             "author": "Mehana Daftary",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 20, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Photo-1-333x500.jpg"
@@ -771,7 +771,7 @@
         {
             "title": "Magnetism in Small Planets",
             "author": "Rayyan Darji",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 20, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-2-1-1-500x500.jpg"
@@ -787,7 +787,7 @@
         {
             "title": "Curing Soil with Cover Crops",
             "author": "Ivy Fan",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 20, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/1-cereal-rye-field-500x375.jpg"
@@ -803,7 +803,7 @@
         {
             "title": "Are Artificial Intelligence Models Ready for Clinical Use?",
             "author": "James Han",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 20, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/2-500x400.jpg"
@@ -819,7 +819,7 @@
         {
             "title": "Kelp\u2019s Future in Renewable Energy",
             "author": "Sydney Hirsch",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 20, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/giantkelp-500x281.jpg"
@@ -835,7 +835,7 @@
         {
             "title": "Expected Parenthood: Fathers vs. Mothers",
             "author": "Cindy Kuang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 20, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-1-1-500x500.jpeg"
@@ -851,7 +851,7 @@
         {
             "title": "Who Votes for Climate Change?",
             "author": "Tai Michaels",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 20, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/fig1-492x500.png"
@@ -867,7 +867,7 @@
         {
             "title": "Environmental Justice and Industrial Animal Farms",
             "author": "Emilia Oliva",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 20, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Image-1-1-1-500x333.jpg"
@@ -883,7 +883,7 @@
         {
             "title": "Sensing Colors: How Blind Worms See",
             "author": "Hannah Ro",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 20, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Fig1-500x375.jpeg"
@@ -899,7 +899,7 @@
         {
             "title": "Mice with Human Blood: A new way to study blood disorders",
             "author": "Van Anh Tran",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 20, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-2-2-500x334.jpg"
@@ -915,7 +915,7 @@
         {
             "title": "Comet Catalina: Delivering the Ingredients of Life",
             "author": "Anavi Uppal",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 20, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-1-500x400.jpeg"
@@ -931,7 +931,7 @@
         {
             "title": "A Breakthrough Therapy For Diabetes: Could teplizumab lead us to a cure for type 1 diabetes?",
             "author": "Alex Dong",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Finally-a-Cure-for-Type-I-Diabetes-Sophia-Zhao-383x500.jpg"
@@ -947,7 +947,7 @@
         {
             "title": "The Radio Station at the End of the Universe: Chasing the axion to unravel the mystery of dark matter",
             "author": "Brianna Fernandez",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Dark-Matter-Axions-Alex-Dong-500x347.png"
@@ -963,7 +963,7 @@
         {
             "title": "Generating Randomness: A Laser-Based Scramble for Random Numbers",
             "author": "Alexa Jeanne Loste",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Random-Number-Generator-Elaine-Cheng-466x500.jpg"
@@ -979,7 +979,7 @@
         {
             "title": "Tracking Down Lethal Mosquitoes: Machine learning to map the genetic connectivity of A. aegypti in the southern United States",
             "author": "Elizabeth Wu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Tracking-Mosquitos-Noora-Said-500x311.png"
@@ -995,7 +995,7 @@
         {
             "title": "2D Solutions to 3D Problems: Studying the electrical properties of altered 2D materials",
             "author": "Catherine Zheng",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/2D-Solutions-for-3D-Problems-Sophia-Zhao-386x500.jpg"
@@ -1011,7 +1011,7 @@
         {
             "title": "ASIA: Assessing Social Identities",
             "author": "Tejita Agarwal",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/ASIA-scimag_-Malia-Kuo-500x500.png"
@@ -1027,7 +1027,7 @@
         {
             "title": "Beauty is in the Eye of the Beholder",
             "author": "Lauren Chong",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/beauty_in_the_eyes_of_the_b-Cecilia-Lee-386x500.png"
@@ -1043,7 +1043,7 @@
         {
             "title": "Migratory Strategies: Past, Present, and Future",
             "author": "Madison Houck",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/migratory-strategies_AL-AnMei-Little-375x500.jpeg"
@@ -1059,7 +1059,7 @@
         {
             "title": "Memories of a Brainless Slime Mold",
             "author": "Malia Kuo",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Mold.Anasthasia.Shilov-Anasthasia-Shilov-500x500.png"
@@ -1075,7 +1075,7 @@
         {
             "title": "Gynecology for Guys: Male Birth Control",
             "author": "Angelica Lorenzo",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/GUYNECOLOGY-Noora-Said-500x429.png"
@@ -1091,7 +1091,7 @@
         {
             "title": "Bridging the Quantum Gap",
             "author": "Yu Jun Shen",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Michaels_quantum-3-Tai-Michaels-500x330.png"
@@ -1107,7 +1107,7 @@
         {
             "title": "Science in the Spotlight: The Nocturnists",
             "author": "Ann-Marie Abunyewa",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/healthcareworkers-500x500.png"
@@ -1123,7 +1123,7 @@
         {
             "title": "Alumnus Profile: Dr. C. Brandon Ogbunu (PhD \u201910)",
             "author": "Anna Calame",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Brandon-Ellie-Gabriel-500x464.jpg"
@@ -1139,7 +1139,7 @@
         {
             "title": "Undergraduate Profile: Phyllis Mugadza (\u201922 BS/MPH)",
             "author": "Eamon Goucher",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Phyllis-Ellie-Gabriel-478x500.jpg"
@@ -1155,7 +1155,7 @@
         {
             "title": "Q&A: Why do fragments spin after a nuclear fission split?",
             "author": "Meili Gupta",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/molecules-500x251.png"
@@ -1171,7 +1171,7 @@
         {
             "title": "Science in the Spotlight: Vivek Murthy\u2019s Together",
             "author": "Hannah Huang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/vivek_murphy-500x331.png"
@@ -1187,7 +1187,7 @@
         {
             "title": "Into the Newsroom: A Conversation with Carl Zimmer",
             "author": "Sophia Li",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/author-carl-zimmer-superJumbo-500x500.png"
@@ -1203,7 +1203,7 @@
         {
             "title": "Counterpoint: Not-So-Identical Twins",
             "author": "Eva Syth",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure2-500x332.jpeg"
@@ -1219,7 +1219,7 @@
         {
             "title": "Ramp to the Photon Highway",
             "author": "Yu Jun Shen",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/IBMQ_Dilution_Refridgerator-500x333.jpeg"
@@ -1235,7 +1235,7 @@
         {
             "title": "Food Insecurity in Honduras",
             "author": "Himani Pattisam",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/BeanFarm-500x333.jpeg"
@@ -1251,7 +1251,7 @@
         {
             "title": "Staying Alive: How Plants Prepare for Winter",
             "author": "Saachi Grewal",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Saachi_Figure-1-375x500.jpeg"
@@ -1267,7 +1267,7 @@
         {
             "title": "Quenched Galaxy Leaves Astronomers Thirsty for More",
             "author": "Julia Levy",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Levy_Figure-1-500x240.png"
@@ -1283,7 +1283,7 @@
         {
             "title": "Dollar General Health Interventions",
             "author": "Noor Nouaili",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/2008-10-07_Dollar_General_in_Durham-1-500x333.jpg"
@@ -1299,7 +1299,7 @@
         {
             "title": "Decrypting Dinosaurs of the East: Uncovering records of eastern North American tyrannosaurs",
             "author": "Anavi Uppal",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Fig.-1-500x339.jpeg"
@@ -1315,7 +1315,7 @@
         {
             "title": "An Unexpected Reason for COVID Outcomes: The presence and role of autoantibodies in patients with COVID-19",
             "author": "Sophia David",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/David_Fig1-500x281.png"
@@ -1331,7 +1331,7 @@
         {
             "title": "Alumnus Profile: Eric Y. Wang (YC \u201921)",
             "author": "David Zhang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/DONG1-500x500.jpg"
@@ -1347,7 +1347,7 @@
         {
             "title": "Science in the Spotlight: Fuzz by Mary Roach",
             "author": "Norvin West",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/elephant-picture-500x360.jpg"
@@ -1363,7 +1363,7 @@
         {
             "title": "Science in the Spotlight: Breaking Boundaries",
             "author": "Chris Esneault",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/49449072528_1876ce3416_b-500x333.jpg"
@@ -1379,7 +1379,7 @@
         {
             "title": "Q&A: How Will Climate Change Progress?",
             "author": "Crystal Liu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-3-333x500.jpg"
@@ -1395,7 +1395,7 @@
         {
             "title": "Q&A: Can Brains Be Fossilized?",
             "author": "Odessa Goldberg",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-2-375x500.jpeg"
@@ -1411,7 +1411,7 @@
         {
             "title": "Perceptions of \u201cNatural Gas\u201d: The influence of terminology and political affiliation",
             "author": "James Licato",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Licato_Fig1-1-500x310.jpeg"
@@ -1427,7 +1427,7 @@
         {
             "title": "Forests of the Future",
             "author": "Tori Sodeinde",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-2-Clearcut-Forest-1-500x335.jpg"
@@ -1443,7 +1443,7 @@
         {
             "title": "\u201cHands up, We\u2019ve Got You Surrounded!\u201d: A protein that dissolves bacterial membranes to execute immunity",
             "author": "Emily Shang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Shang_Figure1-362x500.png"
@@ -1459,7 +1459,7 @@
         {
             "title": "Colder and Wiser:  The impacts of aging on thermoregulation",
             "author": "Van Anh Tran",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Duality_Of_Cold_Final-Breanna-Brownson-500x500.png"
@@ -1475,7 +1475,7 @@
         {
             "title": "Birds of a Feather Color Together: Studying the structure of bird feathers could revolutionize engineering",
             "author": "Ryan Bose-Roy",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/RainbowWings.Anasthasia.Shilov-Anasthasia-Shilov1-500x500.png"
@@ -1491,7 +1491,7 @@
         {
             "title": "The Atmospheres of Mars and Titan",
             "author": "Ethan Olim",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/fig-1-500x281.jpeg"
@@ -1507,7 +1507,7 @@
         {
             "title": "Tracking Mercury Pollution",
             "author": "Jessica Liu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Liu_Figure1-500x375.jpeg"
@@ -1523,7 +1523,7 @@
         {
             "title": "Predicting Inaccessible Information",
             "author": "Sydney Hirsch",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Hirsch_Figure1-500x296.jpeg"
@@ -1539,7 +1539,7 @@
         {
             "title": "Uncovering the Role of a Microprotein",
             "author": "Hannah Barsouk",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Barsouk_Figure2-500x333.jpeg"
@@ -1555,7 +1555,7 @@
         {
             "title": "Circa Diem: Opening the AI Black Box",
             "author": "Simona Hausleitner",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Circa-Diem-1-Kassi-Correia-364x500.jpg"
@@ -1571,7 +1571,7 @@
         {
             "title": "Bioethics in the Age of COVID-19: Laundering bias and saving lives through AI",
             "author": "Risha Chakraborty",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Bioethics-in-the-Age-of-COVID-Laundering-Bias-Through-AIscan-Noora-Said-421x500.jpg"
@@ -1587,7 +1587,7 @@
         {
             "title": "Counterpoint: What Makes a Habitable Planet?",
             "author": "Nathan Wu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [],
             "publication": "The Yale Scientific",
@@ -1599,7 +1599,7 @@
         {
             "title": "Into the Newsroom: David Pogue (YC \u201985)",
             "author": "Dhruv Patel",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Pogue-photo-1-333x500.jpg"
@@ -1615,7 +1615,7 @@
         {
             "title": "The Tug-of-War Between Plasticity and Stability: The science of learning languages",
             "author": "Hannah Han",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-Neuronal-Network-500x279.png"
@@ -1631,7 +1631,7 @@
         {
             "title": "How Worms Remember Their Enemies: Transgenerational inheritance of avoidance behavior in C. elegans",
             "author": "Kayla Yup",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-8-500x141.jpg"
@@ -1647,7 +1647,7 @@
         {
             "title": "Eyes are the Windows to the Robot\u2019s Soul: How mutual gaze with a robot impacts human social decision-making",
             "author": "Gonna Nwakudu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/IIT-Social-Cognition-in-Human-Robot-Interaction-unit-standing-with-the-robot-used-in-the-experiments-Figure-2-500x333.jpg"
@@ -1663,7 +1663,7 @@
         {
             "title": "Move Away from Water!",
             "author": "Zeki Tan",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Image-1-2-500x335.jpg"
@@ -1679,7 +1679,7 @@
         {
             "title": "Undergraduate Profile: Anna B Albright (YC \u201923)",
             "author": "Sophia Burick",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Chong_1-2-500x333.jpg"
@@ -1695,7 +1695,7 @@
         {
             "title": "The Silent Mental Health Threats of COVID-19: Your feelings of paranoia are not all that uncommon",
             "author": "Shudipto Wahed",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/The-Silent-Mental-Health-Threats-of-COVID-Kat-Moon-500x348.png"
@@ -1711,7 +1711,7 @@
         {
             "title": "A Shift in the Psychedelic Paradigm: Could shrooms shake up the future of psychiatry?",
             "author": "Rayyan Darji",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 18, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Using-Psychedelics-to-Curb-Depression-Elaine-Cheng-500x398.png"
@@ -1727,7 +1727,7 @@
         {
             "title": "The Lives of Black Holes and Galaxies: New Models for All Scales of Motion",
             "author": "Daniel Ma",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 8, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Ma_Figure1-500x500.png"
@@ -1743,7 +1743,7 @@
         {
             "title": "A Tech Clairvoyant for Paralyzed Voices: A New Prosthesis that Translates Brain Activity to Speech",
             "author": "Alex Dong",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 8, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/artificial-intelligence-3685928_1280-500x333.png"
@@ -1759,7 +1759,7 @@
         {
             "title": "The Mathematically Perfect Egg",
             "author": "Eunsoo Hyun",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 8, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/TheMathematicallyPerfectEgg-Saachi-Grewal-500x357.jpg"
@@ -1775,7 +1775,7 @@
         {
             "title": "The Future of Carbon Capture: Unlocking Cheap Conversion of Carbon Dioxide to Methane",
             "author": "Sarah Cook",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 8, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/30953392578_1449f7758f_o-500x334.jpg"
@@ -1791,7 +1791,7 @@
         {
             "title": "Building a Battery Future: Exploring the Viability of Sodium Batteries in a Lithium Dominated World",
             "author": "Jordan Sahly",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "October 10, 2021",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Sahly_Figure2-500x453.jpeg"
@@ -1807,7 +1807,7 @@
         {
             "title": "Alumni Profile: Paul Hanle (PhD \u201975)\ufffc",
             "author": "Sophia Burick",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/DONG1-1-400x500.jpg"
@@ -1823,7 +1823,7 @@
         {
             "title": "Science in the Spotlight: Our Biggest Experiment by Alice Bell",
             "author": "Tori Sodeinde",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Sodeinde-figure-2-500x334.jpg"
@@ -1839,7 +1839,7 @@
         {
             "title": "Counterpoint: Do Hospitals Really Do No Harm?\ufffc",
             "author": "Hannah Shi",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Sherman-headshot-500x334.jpg"
@@ -1855,7 +1855,7 @@
         {
             "title": "Q&A: How Can Physics Teach Us About Climate Change?",
             "author": "Kat Moon",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/moon-figure-1.jpeg"
@@ -1871,7 +1871,7 @@
         {
             "title": "Into the Newsroom: The Yale Program on Climate Change Communication",
             "author": "Hannah Han",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Leiserowitz-384x500.jpg"
@@ -1887,7 +1887,7 @@
         {
             "title": "Cook Stoves and Pollution Mortality",
             "author": "Risha Chakraborty",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Poorer-Households-in-India-Final-Breanna-Brownson-500x290.jpeg"
@@ -1903,7 +1903,7 @@
         {
             "title": "The Temperature Toll",
             "author": "Anna Calame",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Extreme-Temperatures-Could-Affect-Mental-Health-Noora-Said-427x500.png"
@@ -1919,7 +1919,7 @@
         {
             "title": "The New Rumplestiltskin: Spinning Wood into Plastic",
             "author": "Lucas Loman",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Using_wood_type2-Kat-Moon-500x348.png"
@@ -1935,7 +1935,7 @@
         {
             "title": "The Greta Thunberg Effect",
             "author": "Hannah Huang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/The_Greta_Thunberg_Effect-Ann-Marie-Abunyewa-500x349.png"
@@ -1951,7 +1951,7 @@
         {
             "title": "Making Buildings More Energy-Efficient Could Save Lives\ufffc",
             "author": "Bella Xiong",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Energy-Efficient-Building-Cathleen-Liang-500x357.png"
@@ -1967,7 +1967,7 @@
         {
             "title": "Science in the Spotlight: EVST 219: Philosophical Environmental Ethics",
             "author": "Lucy Gilchrist",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/gilchrist-hands-1-500x235.jpg"
@@ -1983,7 +1983,7 @@
         {
             "title": "Mirror Mirror On the Wall\u2026 Is One Mirror Image Better Than Us All?",
             "author": "Sherry Wang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/chemists-500x416.jpg"
@@ -1999,7 +1999,7 @@
         {
             "title": "Undergraduate Profile Elea Hewitt (\u201922): Insights from a Year of Farming",
             "author": "Sophia David",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/FIgure-5-1-375x500.jpg"
@@ -2015,7 +2015,7 @@
         {
             "title": "Cleave the Chlorine!: A catalyst to help remove chlorine from pollute water",
             "author": "Sydney Hirsch",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure1_Hirsch-500x500.jpg"
@@ -2031,7 +2031,7 @@
         {
             "title": "Atmospheric Rivers: How global warming influences the stability of water vapor streams",
             "author": "Crystal Liu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-9-500x326.jpg"
@@ -2047,7 +2047,7 @@
         {
             "title": "Climate Change and Evolution: What wood frogs tell us about adaptation to climate change",
             "author": "Isabel Trindade",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/fig1_trindade-500x336.jpeg"
@@ -2063,7 +2063,7 @@
         {
             "title": "The Search for a Household Contaminant\u2019s Health Impacts",
             "author": "James Licato",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Factory_Water-500x375.jpeg"
@@ -2079,7 +2079,7 @@
         {
             "title": "A Tiny Molecule\u2019s Big Role in Brain Development: How retinoic acid regulates the connectivity of the prefrontal cortex",
             "author": "Neil Kadian",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Kadian_Figure2-500x333.jpg"
@@ -2095,7 +2095,7 @@
         {
             "title": "Breaking Bonds with Computer Models: A new approach for understanding proton-coupled electron transfer",
             "author": "Madison Houck",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Houck_Figure2-500x332.png"
@@ -2111,7 +2111,7 @@
         {
             "title": "Food Addiction Across Demographics: How environmental context might increase distress",
             "author": "Lauren Chong",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-1-1-500x333.jpg"
@@ -2127,7 +2127,7 @@
         {
             "title": "Can You Learn More Than a Fifth Grader?: Attitudes toward learning in children and adults",
             "author": "Odessa Goldberg",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure2_Goldberg-500x333.jpeg"
@@ -2143,7 +2143,7 @@
         {
             "title": "Predicting Crop Contaminants with Machine Learning",
             "author": "Annabel Wallace",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Env_contamination1.if_-500x333.png"
@@ -2159,7 +2159,7 @@
         {
             "title": "Mitigating Climate Change with Green Roofs",
             "author": "Abigail Jolteus",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Image-1-2-500x281.jpeg"
@@ -2175,7 +2175,7 @@
         {
             "title": "Painting the Ocean: More Deadly than Fun",
             "author": "Connie Tian",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Picture1-4-500x331.png"
@@ -2191,7 +2191,7 @@
         {
             "title": "The Fault in Our Stars",
             "author": "Ethan Olim",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Olim-Uppal-Figure2-500x270.jpeg"
@@ -2207,7 +2207,7 @@
         {
             "title": "Wildfires and Ocean Blooms",
             "author": "Krishna Dasari",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Dasari-Wu_Figure2-500x333.jpeg"
@@ -2223,7 +2223,7 @@
         {
             "title": "Rationing Breaths",
             "author": "Sophia Li",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Li-Zheng_Figure1-500x333.jpeg"
@@ -2239,7 +2239,7 @@
         {
             "title": "Cow Total 101",
             "author": "Jack Litke",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Litke_Figure1-500x375.jpeg"
@@ -2255,7 +2255,7 @@
         {
             "title": "The Bacterial Birth of \u2018Living Medicine\u2019",
             "author": "Simona Hausleitner",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Hausleitner_fig1.jpeg"
@@ -2271,7 +2271,7 @@
         {
             "title": "Unpacking the Cell\u2019s UPS: The role of vesicle tethers in cell membrane fusion",
             "author": "Alexandra Paulus",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 28, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/paulus-fig-1-new-500x375.jpeg"
@@ -2287,7 +2287,7 @@
         {
             "title": "Reintroducing Forest Fires",
             "author": "David Zhang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 21, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Prescribed-Burn-500x223.jpg"
@@ -2303,7 +2303,7 @@
         {
             "title": "Altering MicroRNA Function",
             "author": "Hannah Barsouk",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 21, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-2-2-500x281.png"
@@ -2319,7 +2319,7 @@
         {
             "title": "Fine Dust: Improving Prediction Models",
             "author": "Breanna Brownson",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 21, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Fine-Dust-500x351.jpeg"
@@ -2335,7 +2335,7 @@
         {
             "title": "A Circumtriple Star System with a Possible Planet",
             "author": "Sarah Feng",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 12, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Feng-Figure-1-500x275.png"
@@ -2351,7 +2351,7 @@
         {
             "title": "The All-In-One Battery",
             "author": "Alex Dong",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 12, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-5-500x373.png"
@@ -2367,7 +2367,7 @@
         {
             "title": "Regrowing Cartilage May Take an Electric Kick",
             "author": "Chloe Nield",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 21, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Nguyen-and-Liu.jpeg"
@@ -2383,7 +2383,7 @@
         {
             "title": "A New Battery Alternative",
             "author": "Elizabeth Lin",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 21, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/car-6943451-500x250.jpg"
@@ -2399,7 +2399,7 @@
         {
             "title": "Halogens: A Gaseous Peek into the Earth\u2019s History",
             "author": "Sydney Hirsch",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "June 21, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/OceanPic-500x334.jpg"
@@ -2415,7 +2415,7 @@
         {
             "title": "Modeling Mind: Theory of Mind in Linguistic Communication",
             "author": "Katrina Starbird",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/mind_image-500x382.png"
@@ -2431,7 +2431,7 @@
         {
             "title": "The Meta-Gut: Conservational Clues Provided by Hippo Poop\ufffc",
             "author": "Hannah Shi",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Meta_Gut_Hippos_detailed-Luna-Aguilar-500x269.png"
@@ -2447,7 +2447,7 @@
         {
             "title": "Visualizing the Heart of Photosynthesis",
             "author": "Shudipto Wahed",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/photosystemii-Ann-Marie-Abunyewa-500x375.png"
@@ -2463,7 +2463,7 @@
         {
             "title": "Video Games for the Win",
             "author": "Crystal Liu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Liu_Fig2-500x281.png"
@@ -2479,7 +2479,7 @@
         {
             "title": "A Sticky Situation\u2026 Underwater",
             "author": "Eunsoo Hyun",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Hyun_Fig3-500x334.png"
@@ -2495,7 +2495,7 @@
         {
             "title": "On the Path to Bomb-Sniffing Insects\ufffc",
             "author": "Elisa Howard",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Howard_Fig1-500x375.jpg"
@@ -2511,7 +2511,7 @@
         {
             "title": "The Precise Choreography of Nature\u2019s Master Weavers",
             "author": "Hannah Han",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Han_Fig2-500x357.png"
@@ -2527,7 +2527,7 @@
         {
             "title": "Spanish Perro and Hungarian Kutya: Can Dogs Distinguish Human Languages?",
             "author": "Breanna Brownson",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Brownson_Fig1-1-386x500.jpg"
@@ -2543,7 +2543,7 @@
         {
             "title": "Hazards of the Himalayas Clash with Today\u2019s Urbanization Patterns\ufffc",
             "author": "Daniel Ma",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Danielle-de-Haerne-Hindu--500x500.jpg"
@@ -2559,7 +2559,7 @@
         {
             "title": "A Holistic Model of Electric Vehicle Carbon Emissions",
             "author": "Tiffany Liao",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/liao_ev_image-500x282.png"
@@ -2575,7 +2575,7 @@
         {
             "title": "Carbon Dioxide: Renewable Energy\u2019s Rising Star",
             "author": "Maya Khurana",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/khurana_capture_image-500x411.png"
@@ -2591,7 +2591,7 @@
         {
             "title": "How to Stop a Sperm Cell (Or Make It Go Faster)",
             "author": "Christopher Esneault",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Development-Sperm-Art-Fertilization-Pregnancy-Live-956480-500x375.jpeg"
@@ -2607,7 +2607,7 @@
         {
             "title": "Q&A: Fishy Driving: Can Fish Navigate Outside Of Water?",
             "author": "Eva Syth",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Syth_Fig1-500x375.jpeg"
@@ -2623,7 +2623,7 @@
         {
             "title": "Reviewing The Anthropocene Reviewed\ufffc",
             "author": "Lucy Zha",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Zha_Fig2.jpeg"
@@ -2639,7 +2639,7 @@
         {
             "title": "Undergrad Profile: Kate Pundyk",
             "author": "Catherine Zheng",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/DONG1-500x500.jpeg"
@@ -2655,7 +2655,7 @@
         {
             "title": "Why Don\u2019t Mice Get Covid?",
             "author": "Ryan Bose-Roy",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Why-dont-mice-get-COVID_-Sophia-Zhao-386x500.jpeg"
@@ -2671,7 +2671,7 @@
         {
             "title": "Nanomagnets Offer Clues to Avalanches\ufffc",
             "author": "Gaukhar Alzhanova",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/avalanche-500x313.jpeg"
@@ -2687,7 +2687,7 @@
         {
             "title": "\u201cQuantum Physics Gets Even More Spooky\u201d\ufffc",
             "author": "Patryk Dabek",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Dabek_Figure1-500x400.jpeg"
@@ -2703,7 +2703,7 @@
         {
             "title": "Halogens: A Gaseous Peek into the Earth\u2019s History",
             "author": "Sydney Hirsch",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/ocean-500x375.jpeg"
@@ -2719,7 +2719,7 @@
         {
             "title": "We Need to Talk About Periods\u2026 Period\ufffc",
             "author": "Connie Tian",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/period1-500x500.jpeg"
@@ -2735,7 +2735,7 @@
         {
             "title": "E. coli\u2019s Streaming Bandwidth\ufffc",
             "author": "Abigail Jolteus",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/EColi-500x360.jpeg"
@@ -2751,7 +2751,7 @@
         {
             "title": "Alumni Profile: James Diao (MY\u201818)\ufffc",
             "author": "Yusuf Rasheed",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Rasheed_Fig3.jpg.jpg"
@@ -2767,7 +2767,7 @@
         {
             "title": "The Shrewd Family Business that Sold Time\ufffc",
             "author": "Dhruv Patel",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Patel_Fig1.jpeg"
@@ -2783,7 +2783,7 @@
         {
             "title": "Q&A: Palm Reading\u2019s Not a Myth? What Fingerprints Can Tell Us About Limb Development",
             "author": "Odessa Goldberg",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Golberg_Fig1-280x500.png"
@@ -2799,7 +2799,7 @@
         {
             "title": "Science Denial: Why it happens in Don\u2019t Look Up\ufffc",
             "author": "Sophia David",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/David_Fig1-500x256.jpeg"
@@ -2815,7 +2815,7 @@
         {
             "title": "It\u2019s All in Your Head: Zooming In on the Connections\ufffc",
             "author": "Cindy Mei",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Mei_Figure1.jpeg"
@@ -2831,7 +2831,7 @@
         {
             "title": "Exciting Experiments in Exoplanets",
             "author": "Emily Shang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/shang1-500x333.jpeg"
@@ -2847,7 +2847,7 @@
         {
             "title": "\u201cHumanity: It\u2019s In Our Bones\u201d",
             "author": "Himani Pattisam",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Pattisam_Figure1-500x333.jpeg"
@@ -2863,7 +2863,7 @@
         {
             "title": "How Pigs Could Help Us Pee: A New Era of Xenotransplantation\ufffc",
             "author": "Kayla Yup",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Yuo_Fig4-416x500.jpeg"
@@ -2879,7 +2879,7 @@
         {
             "title": "Stressed Out? You Could Be Aging Faster",
             "author": "Kelly Chen",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/chen_stress_image-500x375.png"
@@ -2895,7 +2895,7 @@
         {
             "title": "Dopamine",
             "author": "Victoria Vera",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/vera_brain_image-500x354.jpeg"
@@ -2911,7 +2911,7 @@
         {
             "title": "Hello Haloscopes",
             "author": "Isabel Trindade",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/qZ4rWjv95dJmQTVPYAmiqf-1200-80-1-500x350.jpeg"
@@ -2927,7 +2927,7 @@
         {
             "title": "To Diagnose or Not to Diagnose",
             "author": "Gonna Nwakudu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 16, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/nwakudu_pills_image-500x333.jpg"
@@ -2943,7 +2943,7 @@
         {
             "title": "Regrowing Cartilage May Take an Electric Kick\ufffc",
             "author": "Chloe Nield",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 15, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Nguyen-and-Liu.jpeg"
@@ -2959,7 +2959,7 @@
         {
             "title": "Mental Health Through the Ages\ufffc",
             "author": "Georgia Spurrier",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 15, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/mental-health-g59cbe41ec_1920-500x333.jpeg"
@@ -2975,7 +2975,7 @@
         {
             "title": "Counterpoint: Salamanders Should Not Be Alive",
             "author": "Nathan Wu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 15, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Wu_Fig2-500x281.jpeg"
@@ -2991,7 +2991,7 @@
         {
             "title": "These Are Not the Genes You\u2019re Looking For",
             "author": "Sophia Burick",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 13, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/24315920330_cf49ca5060_o-462x500.jpg"
@@ -3007,7 +3007,7 @@
         {
             "title": "Undergraduate Profile: Jennifer Miao (YC \u201922)",
             "author": "Emily Shang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [],
             "publication": "The Yale Scientific",
@@ -3019,7 +3019,7 @@
         {
             "title": "Science in The Spotlight: The Man Who Tasted Words",
             "author": "Elisa Howard",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Howard_1-500x333.jpg"
@@ -3035,7 +3035,7 @@
         {
             "title": "Science in the Spotlight: Into the Metaverse",
             "author": "Kelly Chen",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Chen_1-500x282.jpg"
@@ -3051,7 +3051,7 @@
         {
             "title": "Alumni Profile: Daniel SpielmanA Network Between Fields of Math",
             "author": "Risha Chakraborty",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Chakraborty_Fig1-348x500.png"
@@ -3067,7 +3067,7 @@
         {
             "title": "Hidden Histories: Eunice Newton FooteThe Woman Who Discovered the Greenhouse Effect",
             "author": "Ann-Marie Abunyewa",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/EuiceFoote1-Catherine-Kwon-500x446.jpeg"
@@ -3083,7 +3083,7 @@
         {
             "title": "A Future for Fusion? Producing a self-heating plasma",
             "author": "Krishna Dasari",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Dong_Fusion-Alex-Dong-500x347.png"
@@ -3099,7 +3099,7 @@
         {
             "title": "The Brain\u2019s Brake on Overeating",
             "author": "Connie Tian",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Brains_Break_on_Overeating_SophiaZhao-386x500.jpeg"
@@ -3115,7 +3115,7 @@
         {
             "title": "A Real-Life Infinity Stone: The Time Crystal",
             "author": "Anavi Uppal",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Uppal_2-500x333.png"
@@ -3131,7 +3131,7 @@
         {
             "title": "How to Trick a Tooth Fairy: Engineering Synthetic Tooth Enamel",
             "author": "Kayla Yup",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Synthetic_Tooth_Fairy_Kuo-Malia-Kuo-e1662269180764-491x500.png"
@@ -3147,7 +3147,7 @@
         {
             "title": "A Lego Robot\u2019s Organic Brain",
             "author": "Malia Kuo",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/LegoBrain_LanaZheng-500x347.png"
@@ -3163,7 +3163,7 @@
         {
             "title": "A Sixth Sense from a Sixth Finger",
             "author": "Zeki Tan",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/A-Sixth-Sense-from-a-Sixth-Finger-fantom-fingah-Uriel-Teague-377x500.jpeg"
@@ -3179,7 +3179,7 @@
         {
             "title": "Hidden Histories: Eunice Newton Foote, The Woman Who Discovered the Greenhouse Effect",
             "author": "Ann-Marie Abunyewa",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/EuiceFoote1-Catherine-Kwon-500x446.jpeg"
@@ -3195,7 +3195,7 @@
         {
             "title": "Counterpoint: The Future of Prosthetics Can Be Found On Venus\u2026 Flytraps",
             "author": "Hannah Shi",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Shi_2-333x500.jpeg"
@@ -3211,7 +3211,7 @@
         {
             "title": "Undergraduate Profile: Jennifer Miao (YC \u201922)",
             "author": "Emily Shang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [],
             "publication": "The Yale Scientific",
@@ -3223,7 +3223,7 @@
         {
             "title": "Alumni Profile: Daniel Spielman",
             "author": "Risha Chakraborty",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Chakraborty_Fig1-348x500.png"
@@ -3239,7 +3239,7 @@
         {
             "title": "Science in the Spotlight: Into the Metaverse",
             "author": "Kelly Chen",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Chen_1-500x282.jpeg"
@@ -3255,7 +3255,7 @@
         {
             "title": "Science in The Spotlight: The Man Who Tasted Words",
             "author": "Elisa Howard",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Screen-Shot-2022-09-20-at-8.24.06-PM-500x278.png"
@@ -3271,7 +3271,7 @@
         {
             "title": "Q&A: Time to Meet Your Great^nth Grandparents",
             "author": "Eva Syth",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Syth_2-500x333.jpeg"
@@ -3287,7 +3287,7 @@
         {
             "title": "Q&A: Decoding Machine Learning Mysteries Using Ants",
             "author": "Nathan Wu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Wu_1-500x348.jpeg"
@@ -3303,7 +3303,7 @@
         {
             "title": "The Brain Takes Out the Trash",
             "author": "Elizabeth Wu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/wu_braincelegans-500x136.jpeg"
@@ -3319,7 +3319,7 @@
         {
             "title": "Oldest Known Octopus Ancestor Named After President Biden",
             "author": "Daniel Havlat",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Fossil-squid-thing-500x332.jpeg"
@@ -3335,7 +3335,7 @@
         {
             "title": "Dusting Off the Cobwebs\u2026 and the Chemicals",
             "author": "Sophia Li",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Li_Figure1-500x281.jpeg"
@@ -3351,7 +3351,7 @@
         {
             "title": "A Contrasting Climate: Should We Trust Computers or Fossils?",
             "author": "Chloe Nield",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/nield_climate_1-500x345.jpg"
@@ -3367,7 +3367,7 @@
         {
             "title": "Magnesium? No, You\u2019re Not on the List",
             "author": "Lucas Loman",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/loman_membrane_1-500x335.jpeg"
@@ -3383,7 +3383,7 @@
         {
             "title": "Group Discussions: When We Do and Don\u2019t Use Them",
             "author": "Elizabeth Lin",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/lin_groupproject_1-500x301.jpg"
@@ -3399,7 +3399,7 @@
         {
             "title": "A Personalized Fingerprint for Attention",
             "author": "Cindy Kuang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/kuang_attention_1.jpg"
@@ -3415,7 +3415,7 @@
         {
             "title": "I Want You: Modelling Microbial Recruitment and Peer-Aiding Bacteria",
             "author": "Patryk Dabek",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/dabek_microbes_2-500x333.jpeg"
@@ -3431,7 +3431,7 @@
         {
             "title": "With HIV, A Little Goes a Long Way",
             "author": "Breanna Brownson",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/brownson_hiv_1-500x200.jpeg"
@@ -3447,7 +3447,7 @@
         {
             "title": "Stone-Age Social Networks",
             "author": "Dinara Bolat",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 4, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/bolat_image_1-500x447.png"
@@ -3463,7 +3463,7 @@
         {
             "title": "Electronically Conductive Protein Nanowires: An Electrifying Discovery for Healthcare Applications",
             "author": "Yusuf Rasheed",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 3, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/rasheed_nanowires_1-500x306.jpeg"
@@ -3479,7 +3479,7 @@
         {
             "title": "Scanning DNA Barcodes",
             "author": "Hannah Han",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 3, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/CutandTag_SophiaZhao-500x500.jpeg"
@@ -3495,7 +3495,7 @@
         {
             "title": "Putting Order in Disorder",
             "author": "Yale Scientific Magazine",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 3, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Wave-in-the-Right-Direction-Noora-Said-374x500.png"
@@ -3511,7 +3511,7 @@
         {
             "title": "Supercharged Killer Cells: Advances in CAR-T Cell Therapy",
             "author": "Shudipto Wahed",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 3, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Killer_Tcells_angry_Kuo-Malia-Kuo-e1662262636124-500x476.png"
@@ -3527,7 +3527,7 @@
         {
             "title": "How to Make a Hot Jupiter",
             "author": "Brianna Fernandez",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 3, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/hot-jupiter-Uriel-Teague-354x500.jpeg"
@@ -3543,7 +3543,7 @@
         {
             "title": "Tortoises Then & Now",
             "author": "Sophia Burick",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 3, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Tortoise-Catherine-Kwon-1-e1662261900950-474x500.png"
@@ -3559,7 +3559,7 @@
         {
             "title": "Robots",
             "author": "Alex Dong",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 3, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Dong_Figure1-1-500x375.jpeg"
@@ -3575,7 +3575,7 @@
         {
             "title": "Long-Acting Formulations of Synergistic HIV-1 Drugs",
             "author": "Sydney Hirsch",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 3, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Hirsch_Figure1-1-500x337.jpeg"
@@ -3591,7 +3591,7 @@
         {
             "title": "The Eternal Naked Mole-Rat",
             "author": "Cindy Mei",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 3, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Mei_Figure1-1-500x343.jpeg"
@@ -3607,7 +3607,7 @@
         {
             "title": "Earth\u2019s Nearest Black Hole Turns out to be a Rare Binary System",
             "author": "Crystal Liu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 3, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Liu_Figure1-1-500x313.jpeg"
@@ -3623,7 +3623,7 @@
         {
             "title": "The Theft of 800 Million IQ Points",
             "author": "Lucy Zha",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 3, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Zha_Lead_Image-500x500.jpeg"
@@ -3639,7 +3639,7 @@
         {
             "title": "Breaking New Ground in Geological Sciences: How Earthquakes Stop",
             "author": "Maya Khurana",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 3, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Khurana-earthquake-pic-1.png"
@@ -3655,7 +3655,7 @@
         {
             "title": "A New Tool to Predict COVID-19 Outcomes",
             "author": "Abigail Jolteus",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "September 3, 2022",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Jolteus_Covid-500x243.jpeg"
@@ -3671,7 +3671,7 @@
         {
             "title": "Electronic Skin",
             "author": "Risha Chakraborty",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/charlotteelectronicskin-Charlotte-Leakey-1-372x500.png"
@@ -3687,7 +3687,7 @@
         {
             "title": "Paper Power",
             "author": "Cindy Mei",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Paper_Power2-Luna-Aguilar-500x387.png"
@@ -3703,7 +3703,7 @@
         {
             "title": "The World in Proteins",
             "author": "Krishna Dasari",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/biodiversity-500x281.jpeg"
@@ -3719,7 +3719,7 @@
         {
             "title": "Turning the Knots in Resonators",
             "author": "Yusuf Rasheed",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/charlotteresonance-Charlotte-Leakey-1-372x500.png"
@@ -3735,7 +3735,7 @@
         {
             "title": "Using Fireflies to Measure HIV Replication",
             "author": "Connie Tian",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Using-Fireflies-to-Count-HIV-Replication-Kara-Tao-1-375x500.png"
@@ -3751,7 +3751,7 @@
         {
             "title": "Personal Matters on Abortion",
             "author": "Van Anh Tran",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/personal-matters-abortion-colored-bkgd-Luna-Aguilar-1-405x500.png"
@@ -3767,7 +3767,7 @@
         {
             "title": "How to Grow a Heart",
             "author": "Catherine Zheng",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/HeartWithBG-Kiera-Suh-1-347x500.png"
@@ -3783,7 +3783,7 @@
         {
             "title": "The Molecular Clock",
             "author": "Chris Esneault",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/esneault_image2-500x478.png"
@@ -3799,7 +3799,7 @@
         {
             "title": "Zombie Cells: When Fiction Bleeds Into Reality",
             "author": "Mia Gawith",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/gawith_image1-383x500.jpg"
@@ -3815,7 +3815,7 @@
         {
             "title": "Expanding Chemistry",
             "author": "George Karadzhov",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Karadzhov_Image1-378x500.jpg"
@@ -3831,7 +3831,7 @@
         {
             "title": "Hummingbirds: Masters of Color",
             "author": "Sheel Trivedi",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/trivedi_hummingbird-500x329.jpg"
@@ -3847,7 +3847,7 @@
         {
             "title": "Solving the Unsolvable",
             "author": "Emily Shang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/shang_image1-500x333.jpeg"
@@ -3863,7 +3863,7 @@
         {
             "title": "Repurposing the Urban Forest",
             "author": "Elise Wilkins",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-2_-Repurposing-the-Urban-Forest-1-500x375.jpg"
@@ -3879,7 +3879,7 @@
         {
             "title": "A Tale of Two Galaxies",
             "author": "Hanwen Zhang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/YSM-Article-Figure-1-1-500x333.png"
@@ -3895,7 +3895,7 @@
         {
             "title": "Tiny Origami Robots",
             "author": "Ignacio Ruiz-Sanchez",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/OrigamiRobot-Catherine-Kwon-1-386x500.png"
@@ -3911,7 +3911,7 @@
         {
             "title": "What Can a Computer Learn from a Baby?",
             "author": "Nathan Wu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/AIBabies-Catherine-Kwon-1-500x324.png"
@@ -3927,7 +3927,7 @@
         {
             "title": "Lightning\u2019s Achilles Heel",
             "author": "Kayla Yup",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Lightnings-Achilles-Heel-Final-Draft-Emily-Poag-498x500.jpeg"
@@ -3943,7 +3943,7 @@
         {
             "title": "Q&A: The Not So Forever Chemicals",
             "author": "Matthew Zoerb",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Zoerb_Fig_1-500x375.jpeg"
@@ -3959,7 +3959,7 @@
         {
             "title": "Q&A: A True Love Story: Mosquitoes x Us",
             "author": "Lea Papa",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Papa_Fig_1-500x345.jpeg"
@@ -3975,7 +3975,7 @@
         {
             "title": "The Sky is for Everyone",
             "author": "Celina Zhao",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Zhao_Fig_1-500x315.jpeg"
@@ -3991,7 +3991,7 @@
         {
             "title": "The Worlds We Don\u2019t Realize",
             "author": "Kelly Chen",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Chen_Fig_1-500x333.jpeg"
@@ -4007,7 +4007,7 @@
         {
             "title": "Graduate Profile: Tyler Myers",
             "author": "Sophia Burick",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [],
             "publication": "The Yale Scientific",
@@ -4019,7 +4019,7 @@
         {
             "title": "Undergraduate Profile: Shervin Dehmoubed (YC\u201925)",
             "author": "Sherry Wang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Wang_fictureP1000174-262x500.jpeg"
@@ -4035,7 +4035,7 @@
         {
             "title": "Counterpoint: Eye Spy: A New Way of Detecting Alzheimer\u2019s",
             "author": "Abigail Jolteus",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Jolteus_Fig_1-334x500.jpeg"
@@ -4051,7 +4051,7 @@
         {
             "title": "Hidden Histories: Bessie Blount Griffin",
             "author": "Ilora Roy",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Said_YSM-Bessie-Blount-Griffi-Noora-Said-348x500.png"
@@ -4067,7 +4067,7 @@
         {
             "title": "The Forgotten Victims of Fracking",
             "author": "Aiden Wright",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Wright_fracking_graphic-332x500.jpeg"
@@ -4083,7 +4083,7 @@
         {
             "title": "Deep Learning Brings Eyesight Into Focus",
             "author": "Katherine He",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/He_Figure2-500x375.jpeg"
@@ -4099,7 +4099,7 @@
         {
             "title": "Cytochrome Nanowires: An Electronic Freeway",
             "author": "Lawrence Zhao",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Zhao_Figure2-500x396.jpeg"
@@ -4115,7 +4115,7 @@
         {
             "title": "The Sun As A Water Purifier",
             "author": "Pranet Sharma",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Sharma_disinfection_graphic-500x363.png"
@@ -4131,7 +4131,7 @@
         {
             "title": "Clearing It Up: Unfogging the Physics of Glass Formation",
             "author": "Robin Tsai",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Tsai_Figure1-500x348.png"
@@ -4147,7 +4147,7 @@
         {
             "title": "The Best of Both Worlds: Hybridizing Photosynthesis for Drought Resistance",
             "author": "Zara Ranglin",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Rangling_Photosynthesis_Figure1-500x331.jpeg"
@@ -4163,7 +4163,7 @@
         {
             "title": "A Robot\u2019s Body Image",
             "author": "Yamato Takabe",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/takabe-500x262.jpeg"
@@ -4179,7 +4179,7 @@
         {
             "title": "A Jellyfish\u2019s Secret To Everlasting Life",
             "author": "Joey Tan",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Tan_jellyfish_graphic-500x333.png"
@@ -4195,7 +4195,7 @@
         {
             "title": "A Life-Saving Sticker",
             "author": "Ximena Leyva Peralta",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/StickerFinalWithBG-Kiera-Suh-347x500.png"
@@ -4211,7 +4211,7 @@
         {
             "title": "The Impact of Youth Arrests on Health in Society",
             "author": "Johnny Yue",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 11, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/yue_image1-500x333.jpg"
@@ -4227,7 +4227,7 @@
         {
             "title": "Shedding Light on the Nebulous",
             "author": "Robin Tsai",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/IMG_3218-487x500.jpg"
@@ -4243,7 +4243,7 @@
         {
             "title": "The Winding Synthetic Road to New Antibiotics",
             "author": "Nathan Mu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Zoerb-1-500x333.jpg"
@@ -4259,7 +4259,7 @@
         {
             "title": "Optimistic Results for RSV Prevention Strategies",
             "author": "Madeleine Popofsky",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/2369228615_9d042a4c1a_c-333x500.jpg"
@@ -4275,7 +4275,7 @@
         {
             "title": "Turtle Transformers",
             "author": "Riya Bhargava",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Bhargava_Figure1-1-500x338.jpg"
@@ -4291,7 +4291,7 @@
         {
             "title": "Icy Interference",
             "author": "Daniel Havlat",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/32567303697_d54e785052_c-500x182.jpg"
@@ -4307,7 +4307,7 @@
         {
             "title": "An Improved Approach to Systems Neurology",
             "author": "Jessica Le",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Le_Figure1-500x281.jpg"
@@ -4323,7 +4323,7 @@
         {
             "title": "The Black Death\u2019s Genetic Mark On Us",
             "author": "Avi Patel",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/7316086176_d95bc87f19_c-500x388.jpg"
@@ -4339,7 +4339,7 @@
         {
             "title": "Palacrodon: A New Piece in the Mass Extinction Puzzle",
             "author": "Alex Roseman",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/4.Palacrodon_PaleoArt_KelseyJenkins-500x332.png"
@@ -4355,7 +4355,7 @@
         {
             "title": "Genetic Influences on PTSD",
             "author": "Kayla Sohn",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/4688523825_4ff04c2098_c-500x446.jpg"
@@ -4371,7 +4371,7 @@
         {
             "title": "An Unexpected Marriage: Robot Drones & Flower Power",
             "author": "Cindy Mei",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/An-Unexpected-Marriage-Killer-Drones-Flower-Power-Sophia-Zhao-500x500.jpg"
@@ -4387,7 +4387,7 @@
         {
             "title": "Q&A: Does Parkinson\u2019s Smell?",
             "author": "Dinara Bolat",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/parkinsons-Pixabay-960x320-1.jpeg"
@@ -4403,7 +4403,7 @@
         {
             "title": "Gamer Neurons",
             "author": "Maya Khurana",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/MaliaKuo_gamerneuron.png"
@@ -4419,7 +4419,7 @@
         {
             "title": "The Strength of Weak Ties",
             "author": "Eunsoo Hyun",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/The-Strength-of-Weak-Links-Kara-Tao-500x333.png"
@@ -4435,7 +4435,7 @@
         {
             "title": "Q&A: Would You Trust Working with a Robot?",
             "author": "Jamie Seu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Fig_1-500x273.jpg"
@@ -4451,7 +4451,7 @@
         {
             "title": "Science in the Spotlight: Atoms and Ashes: A Global History of Nuclear Disasters",
             "author": "Ximena Leyva Peralta",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Fig-2-1.jpg"
@@ -4467,7 +4467,7 @@
         {
             "title": "Counterpoint: Life on Mars was Its Own Undoing",
             "author": "Crystal Liu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/eso1509a-500x205.jpeg"
@@ -4483,7 +4483,7 @@
         {
             "title": "Undergraduate Profile: Eric Sun (MY \u201823)",
             "author": "Cindy Kuang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/ES_Headshot_Crop-500x500.jpeg"
@@ -4499,7 +4499,7 @@
         {
             "title": "Hidden Histories: Nettie Stevens",
             "author": "Anjali Dhanekula",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/MaliaKuo_nettie-418x500.png"
@@ -4515,7 +4515,7 @@
         {
             "title": "Alumni Profile: Jonathan Rothberg (GSAS \u201891)",
             "author": "Sophia Burick",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Dong_3.jpg"
@@ -4531,7 +4531,7 @@
         {
             "title": "Robots vs. Humans: Organic Chemistry Edition",
             "author": "Anya Razmi",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/MaliaKuo_orgorobot-375x500.png"
@@ -4547,7 +4547,7 @@
         {
             "title": "The Golden Standard",
             "author": "Anavi Uppal",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/A-Golden-Elixir-Noora-Said.jpg"
@@ -4563,7 +4563,7 @@
         {
             "title": "Conan the Bacterium",
             "author": "Kayla Yup",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Conan1-Breanna-Brownson-349x500.png"
@@ -4579,7 +4579,7 @@
         {
             "title": "A New Approach to Cystic Fibrosis",
             "author": "Matthew Zoerb",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Zoerb_Figure1-500x281.jpg"
@@ -4595,7 +4595,7 @@
         {
             "title": "Science in the Spotlight: Eating to Extinction",
             "author": "Dinesh Bojja",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/26676026664_274d633466_c-500x334.jpg"
@@ -4611,7 +4611,7 @@
         {
             "title": "Streamlining the Search for New Drugs",
             "author": "Emily Shang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/StreamliningSearch_MaliaKuo-500x375.png"
@@ -4627,7 +4627,7 @@
         {
             "title": "Lab Profile: CarDS Lab",
             "author": "Yusuf Rasheed",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Kim_9-500x167.jpeg"
@@ -4643,7 +4643,7 @@
         {
             "title": "The New Circular Economy",
             "author": "Abigail Jolteus",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/The-New-Circular-Economy-Kara-Tao.png"
@@ -4659,7 +4659,7 @@
         {
             "title": "Recoding in the Brain",
             "author": "Elisa Howard",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Brain_Recode-Evelyn-Jiang-500x301.png"
@@ -4675,7 +4675,7 @@
         {
             "title": "On-Demand Membrane Deformation",
             "author": "Risha Chakraborty",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 12, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Membrane_MaliaKuo-500x375.png"
@@ -4691,7 +4691,7 @@
         {
             "title": "The Case Against Intelligent Computer Vision",
             "author": "Samantha Liu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 10, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/47959568261_44a6873050_c-500x334.jpg"
@@ -4707,7 +4707,7 @@
         {
             "title": "Forecasting Extinction: A New Take on Range Maps",
             "author": "Evelyn Jiang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 10, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/9818454644_b0e36a2532_c-500x332.jpg"
@@ -4723,7 +4723,7 @@
         {
             "title": "The Hidden Pandemic",
             "author": "Sofia Jacobson",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 10, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/protective-suit-gc15cd4084_1920-500x333.jpg"
@@ -4739,7 +4739,7 @@
         {
             "title": "Big Tech is Always Watching",
             "author": "Alex Dong",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 10, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/data-security-1.jpeg"
@@ -4755,7 +4755,7 @@
         {
             "title": "It\u2019s Not All Bad",
             "author": "Matthew Blair",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 10, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/microbiome-banner-x-500x200.webp"
@@ -4771,7 +4771,7 @@
         {
             "title": "The Soot Factor",
             "author": "William Archacki",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 10, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/17241942652_1a2f008382_c-500x375.jpg"
@@ -4787,7 +4787,7 @@
         {
             "title": "Smell You Later",
             "author": "Maya Khurana",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Khurana-Figure-1-500x333.jpg"
@@ -4803,7 +4803,7 @@
         {
             "title": "Detecting the Undetectable",
             "author": "Sydney Hirsch",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Hirsch_Figure2-500x281.png"
@@ -4819,7 +4819,7 @@
         {
             "title": "Solving the Mysteries of Reptilian Evolution",
             "author": "Andy Gu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Gu_Figure1.jpeg"
@@ -4835,7 +4835,7 @@
         {
             "title": "All-Knowing Robots",
             "author": "Matthew Dobre",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Dobre_Figure2-500x333.jpg"
@@ -4851,7 +4851,7 @@
         {
             "title": "The Virtualization of Our Past",
             "author": "Yamato Takabe",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Screen-Shot-2023-04-17-at-5.10.15-PM.png"
@@ -4867,7 +4867,7 @@
         {
             "title": "Verbal Autopsies Help \u2018MakeDeathsCount\u2019",
             "author": "Faith Pena",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/MakeDeathsCount-Figure-1-500x333.jpeg"
@@ -4883,7 +4883,7 @@
         {
             "title": "Animal Architects",
             "author": "Neha Middela",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-2-Seed-Dispersal-article-Neha-Middela.jpg"
@@ -4899,7 +4899,7 @@
         {
             "title": "Turning over a new leaf",
             "author": "Jenny Liu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Liu-Figure-1-500x333.jpg"
@@ -4915,7 +4915,7 @@
         {
             "title": "The Lost Amino Acids",
             "author": "James Han",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/49066748948_494ba0cc08_c-500x375.jpg"
@@ -4931,7 +4931,7 @@
         {
             "title": "Recovering Lost Light",
             "author": "Steven Dong",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/detector-image-1-281x500.jpeg"
@@ -4947,7 +4947,7 @@
         {
             "title": "All Roads Lead to Rome",
             "author": "Isabel Trindade",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-1-2.png"
@@ -4963,7 +4963,7 @@
         {
             "title": "AI vs. Nature: The Protein Game",
             "author": "Lawrence Zhao",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Zhao_Figure1-500x333.jpeg"
@@ -4979,7 +4979,7 @@
         {
             "title": "Birds of a Feather Get Sick Together",
             "author": "Nathan Mu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-6.png"
@@ -4995,7 +4995,7 @@
         {
             "title": "Quieting the Stars with a Galactic Quench",
             "author": "Hannah Qin",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Graphic1-500x346.jpeg"
@@ -5011,7 +5011,7 @@
         {
             "title": "Small but Mighty",
             "author": "Jessica Le",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Le_Figure2-500x119.jpg"
@@ -5027,7 +5027,7 @@
         {
             "title": "Fight or Flight",
             "author": "August Rios",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1.-.jpeg"
@@ -5043,7 +5043,7 @@
         {
             "title": "Tinkering with T cells",
             "author": "Kayla Sohn",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/figure-1-10.jpg"
@@ -5059,7 +5059,7 @@
         {
             "title": "A Tale of Two Brains",
             "author": "Nathan Wu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Wu_Figure1-500x281.jpg"
@@ -5075,7 +5075,7 @@
         {
             "title": "Cosmic Dawn over I-287",
             "author": "Samantha Liu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Perimeter-Kara-Tao-500x500.png"
@@ -5091,7 +5091,7 @@
         {
             "title": "Can A.I. Distinguish One Artist From Another?",
             "author": "David Gaetano",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Sistine_Madonna-500x366.png"
@@ -5107,7 +5107,7 @@
         {
             "title": "Alumni Profile: David Quammen",
             "author": "Santiago Calderon",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/DQ-in-plane-Charlie-H-J-500x334.jpeg"
@@ -5123,7 +5123,7 @@
         {
             "title": "Diving into the Deep",
             "author": "William Archacki",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Fig1_How-Far-the-Light-Reaches-333x500.jpg"
@@ -5139,7 +5139,7 @@
         {
             "title": "Sipping Up a One-Hundred-Year-Old Mystery",
             "author": "Hanwen Zhang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Plant-migration-Court-Johnson-349x500.jpeg"
@@ -5155,7 +5155,7 @@
         {
             "title": "A Staring Spell",
             "author": "Cindy Mei",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [],
             "publication": "The Yale Scientific",
@@ -5169,7 +5169,7 @@
         {
             "title": "Why Doesn\u2019t Immunotherapy Work For Everyone?",
             "author": "Abigail Jolteus",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Why-Doesnt-Immunotherapy-Work-for-Everyone_.jpeg"
@@ -5185,7 +5185,7 @@
         {
             "title": "Hell Planet",
             "author": "Brianna Fernandez",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Hell-planet-Breanna-Brownson.png"
@@ -5201,7 +5201,7 @@
         {
             "title": "Plaque Attack",
             "author": "Breanna Brownson",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Plaque-Attack-Sophia-Zhao-386x500.jpg"
@@ -5217,7 +5217,7 @@
         {
             "title": "The Elephant Whisperers",
             "author": "Victor Nguyen",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Elephant_Family-500x333.jpg"
@@ -5233,7 +5233,7 @@
         {
             "title": "Can You Take the Heat?",
             "author": "Matthew Blair",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Wong_2-500x344.jpg"
@@ -5249,7 +5249,7 @@
         {
             "title": "Climate Checkmate",
             "author": "Kelly Chen",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/climate-checkmate-scaled-e1681763553450-500x195.jpg"
@@ -5265,7 +5265,7 @@
         {
             "title": "Tiny Transformers",
             "author": "Lee Ngatia Muita",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Tiny_Transformers_YSM_Illustration-Court-Johnson-e1681762125834-400x500.jpeg"
@@ -5281,7 +5281,7 @@
         {
             "title": "Counterpoint: Does the \u2018Love Hormone\u2019 Oxytocin Really Lead to True Love?",
             "author": "Lea Papa",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Candy_Hearts-500x333.jpg"
@@ -5297,7 +5297,7 @@
         {
             "title": "Q&A: Can Water Freeze in a Liquid State?",
             "author": "Ignacio Ruiz-Sanchez",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Ball_Mill-500x344.png"
@@ -5313,7 +5313,7 @@
         {
             "title": "Undergraduate Profile: Grayson Wagner",
             "author": "Elise Wilkins",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Havlat.-6-289x500.jpg"
@@ -5329,7 +5329,7 @@
         {
             "title": "Turning Back the Clock",
             "author": "Risha Chakraborty",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Turning-Back-the-Clock_-Using-Genetics-to-Reverse-Aging-Kara-Tao-500x500.png"
@@ -5345,7 +5345,7 @@
         {
             "title": "Catching Lightning",
             "author": "Ximena Leyva Peralta",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Catching-Lightning_-Rapid-Fire-Lasers-Divert-Lightning-Strikes-Kara-Tao-500x375.png"
@@ -5361,7 +5361,7 @@
         {
             "title": "Green Peas in Space",
             "author": "Robin Tsai",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Green-Peas-in-Space-Hannah-Barsouk-500x281.png"
@@ -5377,7 +5377,7 @@
         {
             "title": "Magic Mushrooms",
             "author": "Yale Scientific Magazine",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "May 2, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Magic-mushrooms-Kara-Tao-500x386.png"
@@ -5393,7 +5393,7 @@
         {
             "title": "Architectural Mysteries of Our Past",
             "author": "Risha Chakraborty",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Chakraborty_Figure1-500x333.jpg"
@@ -5409,7 +5409,7 @@
         {
             "title": "Flight of the Black Hole: Did Galactic Collisions Eject Supermassive Black Holes?",
             "author": "David Gaetano",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-6-500x304.png"
@@ -5425,7 +5425,7 @@
         {
             "title": "Quantum Computers, A Promising New Tool for Chemistry",
             "author": "Ximena Leyva Peralta",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/figure-1-3-500x333.jpeg"
@@ -5441,7 +5441,7 @@
         {
             "title": "\u00a0A One-Year Gap, A World of Difference",
             "author": "Morgan Kenna",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Morgan_Figure1-500x333.jpg"
@@ -5457,7 +5457,7 @@
         {
             "title": "You Are What You Eat",
             "author": "Hannah Qin",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Qin_Figure1.jpeg"
@@ -5473,7 +5473,7 @@
         {
             "title": "ChatGPT, MD",
             "author": "Yusuf Rasheed",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Rasheed_Figure1-500x333.jpeg"
@@ -5489,7 +5489,7 @@
         {
             "title": "A Restless Night",
             "author": "Yamato Takabe",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/PREFERRED-IMAGE-Takabe_Figure1-500x375.jpeg"
@@ -5505,7 +5505,7 @@
         {
             "title": "Through the Gate: How HIV Sneaks Into the Nucleus",
             "author": "Nathan Wu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/figure-1-1-2-500x422.jpg"
@@ -5521,7 +5521,7 @@
         {
             "title": "The Unlikely Research Grant For Black And Women Scientists",
             "author": "Kayla Yup",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Yup_Figure1-333x500.jpg"
@@ -5537,7 +5537,7 @@
         {
             "title": "How it Works: Forming Carbon-Nitrogen Bonds from Thin Air",
             "author": "Lawrence Zhao",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-2-2-500x481.jpg"
@@ -5553,7 +5553,7 @@
         {
             "title": "Saving Coral Reefs & Humans with Eco-friendly Sunblock",
             "author": "Matthew Zoerb",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/bleached-coral-flickr-500x333.jpg"
@@ -5569,7 +5569,7 @@
         {
             "title": "Cell Cartography",
             "author": "Gia Cabral",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 21, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figures-1-and-2-500x204.jpg"
@@ -5585,7 +5585,7 @@
         {
             "title": "Your Unique Fingerprint",
             "author": "Elisa Howard",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Fingerprint_-Breanna-Brownson-349x500.png"
@@ -5601,7 +5601,7 @@
         {
             "title": "How Mussels Flex to Keep Coastal Ecosystems Afloat",
             "author": "Abigail Jolteus",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/how-mussels-flex-Luna-Aguilar-500x488.png"
@@ -5617,7 +5617,7 @@
         {
             "title": "It\u2019s In Our Bones",
             "author": "Evelyn Jiang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Heart1-Gia-Cabral-386x500.jpg"
@@ -5633,7 +5633,7 @@
         {
             "title": "Acne-biotics",
             "author": "Crystal Liu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Girl_In_Mirror_YSM-Hannah-Han-386x500.jpg"
@@ -5649,7 +5649,7 @@
         {
             "title": "Science in the Spotlight: Measure for Measure",
             "author": "Henry Chen",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Measureformeasure3-500x500.jpeg"
@@ -5665,7 +5665,7 @@
         {
             "title": "Vacationing In Spain",
             "author": "Matthew Blair",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Vacationing-in-Spain-1-375x500.png"
@@ -5681,7 +5681,7 @@
         {
             "title": "Plant-Animal Hybrids",
             "author": "Samantha Liu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Plant-Animal_Hybrids-500x500.png"
@@ -5697,7 +5697,7 @@
         {
             "title": "Cyborg Zebrafish",
             "author": "Nathan Mu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Cyborg-Zebrafish-Court-Johnson-349x500.jpeg"
@@ -5713,7 +5713,7 @@
         {
             "title": "Seeding Robots",
             "author": "Madeleine Popofsky",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Seeding_Robots-Kara_Tao-500x500.png"
@@ -5729,7 +5729,7 @@
         {
             "title": "The Impossible Star",
             "author": "Elizabeth Watson",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/The-Impossible-Star3-Yurou-Liu-500x500.png"
@@ -5745,7 +5745,7 @@
         {
             "title": "A Carbon Sea Scene",
             "author": "Sophia Zhao",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Perimeter-Sophia-Zhao-387x500.jpg"
@@ -5761,7 +5761,7 @@
         {
             "title": "Undergraduate Profile: Charnice Hoegnifioh (YC \u201924)",
             "author": "Emily Shang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Han_15-333x500.jpg"
@@ -5777,7 +5777,7 @@
         {
             "title": "Q&A: Who Were The First Cowboys In The World?",
             "author": "Jamie Seu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/sunset-5643846_1280-500x281.jpg"
@@ -5793,7 +5793,7 @@
         {
             "title": "Q&A: What is the World\u2019\u2019s Most Efficient Form of Urination?",
             "author": "Victor Nguyen",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/insect-4369745_1280-500x333.jpg"
@@ -5809,7 +5809,7 @@
         {
             "title": "Science in the Spotlight: The Darkness Manifesto",
             "author": "Faith Pena",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/australia-melbourne-landscape-night-500x297.jpeg"
@@ -5825,7 +5825,7 @@
         {
             "title": "Quantum Cryptography",
             "author": "Matthew Dobre",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/physics-6936704_1280-500x333.jpg"
@@ -5841,7 +5841,7 @@
         {
             "title": "Fatal Attraction: Using Fly Pheromones Against Disease",
             "author": "Cindy Mei",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Fly-Pheromones-Court-Johnson-500x349.jpeg"
@@ -5857,7 +5857,7 @@
         {
             "title": "Alumni Profile: Amymarie Bartholomew (YC \u201913)",
             "author": "William Archacki",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Han_2-500x333.jpg"
@@ -5873,7 +5873,7 @@
         {
             "title": "Tracking Carbon\u2019s Underwater Dive",
             "author": "Tori Sodeinde",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Tracking_carbon_dive-03-Luna-Aguilar-500x350.png"
@@ -5889,7 +5889,7 @@
         {
             "title": "A New Approach to an Old Foe",
             "author": "Johnny Yue",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/614C02C8-6BC6-4E6C-B3B9-31F245B09347-375x500.jpg"
@@ -5905,7 +5905,7 @@
         {
             "title": "Taking a Peek at Pandora\u2019s Cluster",
             "author": "Ignacio Ruiz-Sanchez",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [],
             "publication": "The Yale Scientific",
@@ -5917,7 +5917,7 @@
         {
             "title": "Sink or Swim",
             "author": "Lea Papa",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/19752898086_12b3f731c2_o-500x281.jpg"
@@ -5933,7 +5933,7 @@
         {
             "title": "A Dynamic Duo",
             "author": "Casey McGuire",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/unnamed-2-500x500.jpg"
@@ -5949,7 +5949,7 @@
         {
             "title": "The Carbon Footprint of Care",
             "author": "Jessica Le",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/hospital-waste-1-500x281.png"
@@ -5965,7 +5965,7 @@
         {
             "title": "Teaching Machine Learning",
             "author": "Maya Khurana",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [],
             "publication": "The Yale Scientific",
@@ -5977,7 +5977,7 @@
         {
             "title": "Free As a Bird",
             "author": "Mia Gawith",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 16, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-10-363x500.jpg"
@@ -5993,7 +5993,7 @@
         {
             "title": "The Changing Language of Our Changing Climate",
             "author": "Pratiksha Bhattacharyya",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "November 14, 2023",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/CarbonEmissions-500x281.jpeg"
@@ -6009,7 +6009,7 @@
         {
             "title": "Deep Learning",
             "author": "Sophia Burick",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/4788637130_f0ccc2aa40_c-500x334.jpg"
@@ -6025,7 +6025,7 @@
         {
             "title": "Too Strange to Be True?",
             "author": "Proud Ua-arak",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/plasma_electricity_red_blue_purple_ball_lightning_energy-852020-500x333.jpg"
@@ -6041,7 +6041,7 @@
         {
             "title": "Keep An Eye On It",
             "author": "Johnny Yue",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/keep-an-eye-on-it_final-draft-Luna-Aguilar-e1704579335331-500x446.png"
@@ -6057,7 +6057,7 @@
         {
             "title": "COVID-19 Nasal Spray",
             "author": "Evelyn Jiang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/COVID-19_Nasal_Spray_Kara_Tao-500x500.png"
@@ -6073,7 +6073,7 @@
         {
             "title": "Barnacle Breadcrumbs",
             "author": "Madeleine Popofsky",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Barnacle_Breadcrumbs_Kara_Tao-500x375.png"
@@ -6089,7 +6089,7 @@
         {
             "title": "The Phonon Phenomenon",
             "author": "Annli Zhu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/ysm_atoms1-Annli-Zhu-471x500.png"
@@ -6105,7 +6105,7 @@
         {
             "title": "A Scent-sational Memory Boost",
             "author": "Kenny Cheng",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/The_Smell_of_Memory_Final_Draft-Angelique-de-Rouen-500x347.png"
@@ -6121,7 +6121,7 @@
         {
             "title": "The Brick of Life",
             "author": "Ilora Roy",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/The_Brick_Of_Life-Miranda-Selin-354x500.jpg"
@@ -6137,7 +6137,7 @@
         {
             "title": "An Eel-ectrifying Invention",
             "author": "Sharna Saha",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Teeny_Tiny_Droplet_Batteries1-Sonia-Jin-380x500.png"
@@ -6153,7 +6153,7 @@
         {
             "title": "Twinkle, Twinkle, Giant Star",
             "author": "Diya Naik",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/twinkle-star_final-draft-Luna-Aguilar-e1704576724111-395x500.png"
@@ -6169,7 +6169,7 @@
         {
             "title": "A Race Against Resistance",
             "author": "Sofia Arbelaez",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/50742494257_0c33398076_c-500x334.jpg"
@@ -6185,7 +6185,7 @@
         {
             "title": "It\u2019s All In The Stones",
             "author": "Patrick Wahlig",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/7976357294_ecaae78472_w.jpg"
@@ -6201,7 +6201,7 @@
         {
             "title": "Happy Spouse, Happy House",
             "author": "Sunny Vuong",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/pexels-timur-weber-8559962-500x333.jpg"
@@ -6217,7 +6217,7 @@
         {
             "title": "Representation in Animation",
             "author": "Abigail Jolteus",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Joseph_11-scaled-e1704574706608-500x280.jpg"
@@ -6233,7 +6233,7 @@
         {
             "title": "Cancer: Not Just Bad Luck?",
             "author": "Sebastian Reyes",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-11-500x500.jpg"
@@ -6249,7 +6249,7 @@
         {
             "title": "Super-Sizing Life\u2019s Smallest Secrets",
             "author": "Kara Tao",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/puzzle-2500333_1280-500x264.jpg"
@@ -6265,7 +6265,7 @@
         {
             "title": "Counterpoint: The Heaviest Air in the World",
             "author": "Ian Gill",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/40889571404_8174d548f9_c-375x500.jpg"
@@ -6281,7 +6281,7 @@
         {
             "title": "Science in the Spotlight: \u201cWriting for Their Lives\u201d",
             "author": "Keya Bajaj",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Jane-Stafford-image-1-500x401.jpg"
@@ -6297,7 +6297,7 @@
         {
             "title": "That Magnetic Touch: Asteroids Hitting Asteroids",
             "author": "Elizabeth Watson",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/ysm_asteroids-Annli-Zhu-1-e1704580232745-384x500.png"
@@ -6313,7 +6313,7 @@
         {
             "title": "Perimeter: Integration or Invasion?",
             "author": "Isaiah Asbed",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Perimeter_Kara_Tao-500x500.png"
@@ -6329,7 +6329,7 @@
         {
             "title": "Exercise as Therapy for Chemotherapy-Related Nerve Damage",
             "author": "Kenna Morgan",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Morgan_Figure1-1-500x334.jpg"
@@ -6345,7 +6345,7 @@
         {
             "title": "Shhhhh\u2026 Can You Hear That?",
             "author": "Yossi Moff",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/PREFERRED-IMAGE_Moff_Figure2-500x333.jpg"
@@ -6361,7 +6361,7 @@
         {
             "title": "Does Money Make You Happy? Kind Of\u2026",
             "author": "Daniel Y. Wang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Wang_Figure2-500x335.jpg"
@@ -6377,7 +6377,7 @@
         {
             "title": "Caught by the Tail: Taming Self-Destructive Killer T-Cells",
             "author": "Jiya Mody",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Mody_Figure1-500x281.jpeg"
@@ -6393,7 +6393,7 @@
         {
             "title": "Fabrics of the Future: Accessories With Informed Touch Applications",
             "author": "William B. Wang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Wang_Figure2-334x500.jpeg"
@@ -6409,7 +6409,7 @@
         {
             "title": "Surviving Climate Change: How An Endangered Songbird Adapted to a Warming Climate",
             "author": "Vivian Wang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/48173361441_b291f09999_c-500x490.jpg"
@@ -6425,7 +6425,7 @@
         {
             "title": "Following Your Own Path: Designing Shapes That Can Roll Along Any Trajectory",
             "author": "Isabel Trindade",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/261895700_c8d006c104_c-500x374.jpg"
@@ -6441,7 +6441,7 @@
         {
             "title": "The Complexity of Microbial Coexistence",
             "author": "Fareed Salmon",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Microbes-1.jpeg"
@@ -6457,7 +6457,7 @@
         {
             "title": "Carbon Dioxide\u2019s Green Leap",
             "author": "Vamsi Gorrepati",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Carbon-Poillution-500x333.jpeg"
@@ -6473,7 +6473,7 @@
         {
             "title": "Moir\u00e9 Materials",
             "author": "William Archacki",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Meet-Moire-Materials-Steve-Blanco-e1704579947554-500x314.png"
@@ -6489,7 +6489,7 @@
         {
             "title": "Venus\u2019 Skincare Routine",
             "author": "David Gaetano",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Aphrodites_Skincare_Routine_Kara_Tao-500x386.png"
@@ -6505,7 +6505,7 @@
         {
             "title": "Q&A: Can AI Determine The Scent of A Compound Based On Its Chemical Structure?",
             "author": "Ximena Leyva Peralta",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/figure1-2-500x333.jpg"
@@ -6521,7 +6521,7 @@
         {
             "title": "Undergraduate Profile: Harper Lowrey (YC \u201924)",
             "author": "Nyla Marcott",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Talpins14-333x500.jpg"
@@ -6537,7 +6537,7 @@
         {
             "title": "Science in the Spotlight: \u201cThe Roots of the U.S. Black Maternal Mortality Crisis\u201d",
             "author": "Samuel Obioma",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/154579054_ccac391302_c-500x333.jpg"
@@ -6553,7 +6553,7 @@
         {
             "title": "Q&A: Modern-Day Trephination: How Do You Safely Insert An Electrode Into The Brain?",
             "author": "Andrea Ortega",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/1148930404_c8f7fc6294_c-500x375.jpg"
@@ -6569,7 +6569,7 @@
         {
             "title": "Alumni Profile: Ilana Yurkiewicz (YC\u201910)",
             "author": "Himani Pattisam",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "January 6, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Han_1-346x500.jpg"
@@ -6585,7 +6585,7 @@
         {
             "title": "Mind Control: How Newborn Babies Control Their Brains",
             "author": "Andre Botero",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/early-brain-development-mapping-neurosince-1.jpg-500x333.webp"
@@ -6601,7 +6601,7 @@
         {
             "title": "Defining Antimatter: A Matter of Time",
             "author": "Megan Kernis",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Screen-Shot-2024-01-29-at-6.10.27-PM-500x279.png"
@@ -6617,7 +6617,7 @@
         {
             "title": "To Worry or Not To Worry: How Stress Strengthens Memories",
             "author": "Alistair Lam",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/2204059683_9ae889398a_o-357x500.jpg"
@@ -6633,7 +6633,7 @@
         {
             "title": "Leveling Up Video Games for Healthcare: How One Lab is Changing the Game for Adolescent Health Education",
             "author": "Sarah Li",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Gamer_at_Gamescom_2015_20430203215-500x375.jpg"
@@ -6649,7 +6649,7 @@
         {
             "title": "Wild Weather Stations: Using Animals to Track Climate Changes",
             "author": "Helen Shanefield",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/sea-turtle-1851102_1280-500x375.jpg"
@@ -6665,7 +6665,7 @@
         {
             "title": "Letter from the Editors: The Failure Issue",
             "author": "Alex Dong",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [],
             "publication": "The Yale Scientific",
@@ -6679,7 +6679,7 @@
         {
             "title": "Marc Abrahams: Mission Improbable",
             "author": "Mia Gawith",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Figure-1-7-317x500.png"
@@ -6695,7 +6695,7 @@
         {
             "title": "Stuart Firestein: Fascination with Failure",
             "author": "Kavya Gupta",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Han_1-1.jpg"
@@ -6711,7 +6711,7 @@
         {
             "title": "Brian Nosek: A Crisis of Research Reproducibility",
             "author": "Nathan Wu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/staff-nosek-brian-500x500.webp"
@@ -6727,7 +6727,7 @@
         {
             "title": "How Do You Feel?: A Bicellular Mechanism of Touch Detection",
             "author": "Tori Sodeinde",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Corpuscles_Figure1-1-390x500.png"
@@ -6743,7 +6743,7 @@
         {
             "title": "A Researcher\u2019s Guide to Physician Care and Gender Equity: Optimizing The Physician-Patient Experience",
             "author": "Kayla Sohn",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [],
             "publication": "The Yale Scientific",
@@ -6755,7 +6755,7 @@
         {
             "title": "Memories of Death: Cardiac Arrest Patients Recall Death Experiences",
             "author": "Hien Tran",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [],
             "publication": "The Yale Scientific",
@@ -6767,7 +6767,7 @@
         {
             "title": "Alien X-Rays: Analyzing the X-Ray Emissions of Comets",
             "author": "Max Watzky",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [],
             "publication": "The Yale Scientific",
@@ -6779,7 +6779,7 @@
         {
             "title": "Revisiting PFAS: What Happened To The \u201cBrilliant Future\u201d of Forever Chemicals?",
             "author": "Evelyn Jiang",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Capture-decran-2024-02-11-a-10.33.07-AM-500x354.png"
@@ -6795,7 +6795,7 @@
         {
             "title": "Timeline of Scientific Failures",
             "author": "Keya Bajaj",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [],
             "publication": "The Yale Scientific",
@@ -6807,7 +6807,7 @@
         {
             "title": "Rediscovering Cosmic Origins",
             "author": "David Gaetano",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Origins-of-the-Universe-Annli-Zhu-498x500.png"
@@ -6823,7 +6823,7 @@
         {
             "title": "Invention and Innovation: A Brief History of Hype and Failure",
             "author": "Ximena Leyva Peralta",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/lz-127-graf-zeppelin-over-toyko-1929-7d5c3e-500x398.jpg"
@@ -6839,7 +6839,7 @@
         {
             "title": "The Ticking Clock to Fight Ticks",
             "author": "Cindy Mei",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Lyme-Vaccine-in-Limbo-3-393x500.png"
@@ -6855,7 +6855,7 @@
         {
             "title": "Nature vs. Nurture: Is Alcohol Use Disorder in Our Genes?",
             "author": "Matthew Blair",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Nature-vs-Nurture-Patricia-Joseph-500x500.png"
@@ -6871,7 +6871,7 @@
         {
             "title": "Right Idea, Wrong Target?",
             "author": "Madeleine Popofsky",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Gene-Therapy-for-Parkinsons-Disease-Jungbin-Cha-Jaime-500x347.png"
@@ -6887,7 +6887,7 @@
         {
             "title": "Q&A: Why Is \u201cDisruptive\u201d Science Dwindling, While \u201cHype\u201d Language Is On The Rise?",
             "author": "Sunny Vuong",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/pexels-photo-3735769-500x333.webp"
@@ -6903,7 +6903,7 @@
         {
             "title": "Science in the Spotlight: Serendipitous Science: Acts of Accidental Brilliance in the Lab",
             "author": "Jamie Seu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/wasp-6220978_1280-500x332.jpeg"
@@ -6919,7 +6919,7 @@
         {
             "title": "When Science Fiction Becomes Fact: The Rise of \u201cThinking Machines\u201d",
             "author": "Ian Gill",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Archives_Vs_Today_-Anna-Olszowka-500x500.jpg"
@@ -6935,7 +6935,7 @@
         {
             "title": "Perimeter: A New Precipitation",
             "author": "Molly Hill",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Perimeter-500x375.png"
@@ -6951,7 +6951,7 @@
         {
             "title": "Room Temperature Superconductors? Not So Fast\u2026",
             "author": "Yamato Takabe",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Kara_Tao_Room-Temperature_Superconductor-500x375.png"
@@ -6967,7 +6967,7 @@
         {
             "title": "Seawater Squabbles: Overturning A 130-Year-Old Assumption in Seawater Chemistry",
             "author": "Brandon Ngo",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/A_130_Year_Old_Assumption-Anna-Olszowka-500x349.jpg"
@@ -6983,7 +6983,7 @@
         {
             "title": "This Metal-Free Reaction Contains\u2026 Metal",
             "author": "Lawrence Zhao",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Kara_Tao_Metal_Free_Reaction_-500x375.png"
@@ -6999,7 +6999,7 @@
         {
             "title": "Faster Than Lightspeed: These Neutrinos Were Faster Than The Speed Of Light\u2014Until They Weren\u2019t",
             "author": "Genevieve Kim",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/Faster-Than-the-Speed-of-Light_-375x500.png"
@@ -7015,7 +7015,7 @@
         {
             "title": "From \u201cNot Good Enough\u201d to Nobel Prize Winner",
             "author": "Annli Zhu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/kariko-nobel-prize-final-Luna-Aguilar-500x379.png"
@@ -7031,7 +7031,7 @@
         {
             "title": "Counterpoint: Reckoning With The Ghosts of YSM\u2019s Past",
             "author": "Samantha Liu",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/liu_article_photo-e1707678660157-500x357.webp"
@@ -7047,7 +7047,7 @@
         {
             "title": "Ammonium Chloride: Fertilizer Ingredient, Pickling Agent\u2026 Or The Sixth Taste?",
             "author": "Ethan Powell",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/powell_article_photo-500x332.jpeg"
@@ -7063,7 +7063,7 @@
         {
             "title": "Life on Venus! Actually, No! Actually, Maybe?",
             "author": "William Archacki",
-            "authorLogo": "",
+            "authorLogo": "/assets/scientific.jpeg",
             "date": "February 11, 2024",
             "thumbnail": [
                 "https://www.yalescientific.org/wp-content/uploads/life-on-venus-Jungbin-Cha-Jaime-346x500.png"

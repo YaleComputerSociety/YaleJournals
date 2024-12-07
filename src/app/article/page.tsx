@@ -1,10 +1,11 @@
+"use client"
+
 import Link from 'next/link';
+import { useSearchParams } from 'next/navigation';
 
 export default function ArticlePage() {
-    //const router = useRouter();
-    //const { id } = router.query;
+    const searchParams = useSearchParams();
 
-    // Example data, replace with fetched data from an API
     const article = {
         title: "U.S. Milk to Be Tested for Bird Flu Virus",
         subtitle: "New federal rules call for testing unpasteurized milk from dairy processors and for farm owners to provide details that would help officials identify and track cases more easily.",
@@ -28,7 +29,7 @@ export default function ArticlePage() {
                     <Link href="/">
                         <button className="ml-5 text-lg text-black hover:underline transition-all duration-300">Search</button>
                     </Link>
-                    <Link href="/saved">
+                    <Link href="/">
                         <button className="ml-5 text-lg text-black hover:underline transition-all duration-300">Saved</button>
                     </Link>
                     <Link href="/team">
@@ -43,30 +44,26 @@ export default function ArticlePage() {
             </nav>
 
             <header className="border-b pb-6 mb-6">
-                <h1 className="text-4xl font-bold">{article.title}</h1>                    
-                <p className="text-lg text-gray-700 mt-4">{article.subtitle}</p>
+                <h1 className="text-4xl font-bold">{searchParams.get("title")}</h1>                    
+                <p className="text-lg text-gray-700 mt-4">{searchParams.get("content")?.split(".")[1] + "."}</p>
                 <div className="flex flex-col mt-6">
                     <div className="flex items-center mb-2">
-                        {article.authors.map((author, index) => (
-                            <span key={index} className="text-sm text-gray-500 mr-4">
-                                By {author}
-                            </span>
-                        ))}
+                        {searchParams.get("author")}
                     </div>
                     <div className="text-sm text-gray-500">
-                        {article.date}
+                        {searchParams.get("date")}
                     </div>
                 </div>
             </header>
 
             <main className="flex flex-col items-center">
                 <img
-                    src={article.image}
+                    src={`${searchParams.get("thumbnail")}`}
                     alt="Article visual"
                     className="rounded-lg shadow-md mb-8"
                 />
                 <article className="text-gray-800 text-lg leading-8 whitespace-pre-wrap">
-                    {article.content}
+                    {searchParams.get("content")}
                 </article>
             </main>
 
@@ -76,7 +73,7 @@ export default function ArticlePage() {
                     <div className="flex space-x-4">
                         <button className="hover:text-red-500 transition-colors">Share</button>
                         <button className="hover:text-red-500 transition-colors">Bookmark</button>
-                        <button className="hover:text-red-500 transition-colors">165 Comments</button>
+                        <button className="hover:text-red-500 transition-colors">0 Comments</button>
                     </div>
                 </div>
             </footer>

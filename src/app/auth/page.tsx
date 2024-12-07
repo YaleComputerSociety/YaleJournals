@@ -16,14 +16,14 @@ export default function Auth() {
             <label htmlFor="email" className="block text-md font-medium text-gray-700">
                 Email
             </label>
-            <input type="email" id="email" className="h-12 p-3 mt-1 block w-full rounded-2xl border-gray-300 shadow-sm focus:border-red-500 focus:ring-red-500" placeholder="Email" required/>
+            <input type="email" id="email" className="h-12 p-3 mt-1 block w-full rounded-2xl border-gray-300 shadow-sm focus:border-red-500 focus:ring-red-500" placeholder="Enter your email address" required/>
           </div>
 
           <div>
             <label htmlFor="password" className="block text-md font-medium text-gray-700">
               Password
             </label>
-            <input type="password" id="password" className="h-12 p-3 mt-1 block w-full rounded-2xl border-gray-300 shadow-sm focus:border-red-500 focus:ring-red-500" placeholder="Password" required/>
+            <input type="password" id="password" className="h-12 p-3 mt-1 block w-full rounded-2xl border-gray-300 shadow-sm focus:border-red-500 focus:ring-red-500" placeholder="Enter password" required/>
           </div>
 
           <Link href="/">
